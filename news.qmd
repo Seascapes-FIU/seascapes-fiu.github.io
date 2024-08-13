@@ -1,0 +1,19 @@
+---
+title: "News"
+format:
+  html:
+    css: styles.css
+---
+
+# May 2, 2024
+## _Gina Badlowski wins FCE LTER Best Student Poster Award!_
+Please help us in congratulating Gina on her wonderful accomplishment of winning the FCE LTER all scientists meeting "Best Student Poster" award! We are proud of her dedication to her work and showcasing her research at the conference. 
+
+
+# April 14, 2024
+## _Valentina Bautista and Nico Rivas win Benthic Ecology Meeting scholarships!_
+The 2024 Benthic Ecology Meeting sponsored Valentina Bautista and Nico Rivas for their talks, including lodging and a transportation stipend. We are honored that two of our lab's members were selected for this award. 
+
+
+
+

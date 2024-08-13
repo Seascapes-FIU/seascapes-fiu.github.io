@@ -1,0 +1,141 @@
+/* css styles */
+
+/*--------------------------------------------------------------------------*/
+/* formatting for navbar */
+
+/* Increase the height of the navbar */
+.navbar {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1in;
+    width: 100%;
+    display: flex;
+    background-image: url('/images/home-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Style when scrolling down */
+.navbar.scrolled {
+    background-color: lightgray; /* Change background color when scrolled */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow to distinguish from content */
+}
+
+/* Adjust the website title text and logo container */
+.navbar .navbar-brand {
+    font-size: 40px;
+    position: absolute;
+   /* Top margin for positioning */
+}
+
+/* Add spacing between navbar links */
+.navbar .navbar-nav .nav-link {
+    margin-right: 20px; /* Adjust this value as needed */
+}
+
+/* Set the color of the website title text and navbar links */
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link {
+    color: white;
+    padding: 5px 10px; /* Add padding for better appearance */
+    border-radius: 5px; /* Optional: add rounded corners */
+}
+
+/* Change text color on hover */
+.navbar .navbar-nav .nav-link:hover {
+    color: gray;
+}
+
+/* Ensure the text color and background color apply properly */
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link {
+    text-decoration: none;
+}
+
+/*--------------------------------------------------------------------------*/
+/* formatting for footer */
+
+/* Center the footer text */
+.page-footer {
+    color: white;
+    text-align: center; /* Center the text */
+    padding: 10px;
+}
+
+/*--------------------------------------------------------------------------*/
+/* formatting for our lab and alumni page */
+
+.member-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Space between members */
+}
+
+.member-container.reversed {
+    flex-direction: row-reverse;
+}
+
+.main-column {
+    flex: 2;
+    padding: 10px;
+}
+
+.side-column {
+    flex: 1;
+    padding: 10px;
+}
+
+/* Style for the image */
+.member-image {
+    width: 100%;
+    max-width: 300px; /* Adjust as needed */
+    height: auto;
+}
+
+/* Ensure text is well formatted */
+.member-info h2 {
+    margin-top: 0;
+}
+
+/* Custom styles for the "Our Lab" page */
+.page-layout.full .main-container {
+    display: block;
+    max-width: none;
+    padding: 0;
+    margin: 0;
+}
+
+.page-layout.full .sidebar-container, 
+.page-layout.full .margin-container {
+    display: none;
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* Formatting for current research blocks*/ 
+
+.body-section {
+    background-color: white;
+}
+
+.body-section.gray {
+    background-color: #f0f0f0; /* Light gray */
+}
+
+.image-gallery {
+    display: flex; /* Use flexbox to arrange images side by side */
+    gap: 10px; /* Optional: Adds space between images, adjust as needed */
+    margin-top: 20px;/* Adds space above the gallery */
+    margin-bottom: 20px;
+    max-width: 100%; /* Ensure the container doesn’t exceed the body width */
+    width: 100%;
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+.image-gallery img {
+    flex: 1; /* Allow images to grow and shrink equally */
+    max-width: calc(33.33% - 10px); /* Ensure images do not overflow their container */
+    height: auto; /* Maintain aspect ratio of images */
+    box-sizing: border-box;
+}

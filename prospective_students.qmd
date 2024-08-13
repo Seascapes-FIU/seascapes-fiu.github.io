@@ -1,0 +1,8 @@
+---
+title: "Prospective Students"
+format:
+  html:
+    css: styles.css
+---
+
+# We are not currently taking new students at this time. womp womp.

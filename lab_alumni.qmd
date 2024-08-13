@@ -1,0 +1,26 @@
+---
+title: "Lab Alumni"
+format:
+  html:
+    css: styles.css
+    grid: 
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 0px
+---
+
+```{=html}
+<div class="member-container">
+    <!-- First member -->
+    <div class="main-column">
+        <div class="member-info">
+            <h2>Lauren Kabat</h2>
+            <h4><em>MS</em></h4>
+            <p>Lauren was the first graduate of the SEL lab, where she studied shrimp movement in mountain step-pools in El Yunque National Forest, Puerto Rico.</p>
+        </div>
+    </div>
+    <div class="side-column">
+        <img src="images/lauren.jpg" alt="Lauren Kabat" class="member-image">
+    </div>
+</div>
+```

@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Santos Seascape Ecology Lab"
+  navbar:
+    right:
+      - current_research.qmd
+      - rolando_santos.qmd
+      - text: "Team"
+        href: our_lab.qmd
+      - lab_alumni.qmd
+      - news.qmd
+      - publications.qmd
+      - text: "Opportunities in our Lab"
+        href: prospective_students.qmd
+      - contact_us.qmd
+    search: false
+    
+  page-footer: 
+    background: gray
+    left: © 2024 Santos Seascape Ecology Lab
+
+format:
+  html:
+    theme: cosmo
+
+editor: visual
+

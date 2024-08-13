@@ -1,0 +1,15 @@
+---
+title: "Publications"
+page-layout: full
+format:
+  html:
+    css: styles.css
+---
+
+Publications are listed in chronological order.
+
+Identification key: (*Lab Members*, **Graduate Students**, Postdocs\*, † Staff)
+
+James, W. R.\**,* *Santos, R. O*.*,* *Rehage, J. S*., Doerr, J. C., & Nelson, J. A. (2022). E-scape: Consumer-specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. Journal of Animal Ecology, 91, 381–390. https://doi.org/10.1111/1365-2656.13637
+
+

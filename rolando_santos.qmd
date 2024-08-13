@@ -1,0 +1,13 @@
+---
+title: "Dr. Rolando Santos"
+format:
+  html:
+    css: styles.css
+---
+
+I am a marine spatial ecologist, focusing my research on the restoration and resilience of marine habitats and faunal responses to multi-scale habitat characteristics. Research interests center on the application of landscape ecology concepts in marine/aquatic ecosystems to study the influence of spatial structure and habitat heterogeneity on the patterning of marine communities, and species interactions, distribution, and movement. I oversee a variety of projects that use a combination of modelling and quantitative methods to further understand how seascape dynamics influence species distributions
+
+![Dr. Santos](images/rolo.jpg)
+
+email: rsantos@fiu.edu 
+
