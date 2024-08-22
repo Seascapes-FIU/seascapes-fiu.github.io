@@ -1,147 +1,146 @@
 ---
-title: "Meet the Lab!"
+title: "Team"
 format:
   html:
     css: styles.css
-    grid: 
-      sidebar-width: 0px
-      body-width: 1200px
-      margin-width: 0px
 ---
 
 ```{=html}
-<div class="member-container reversed">
-    <!-- Second member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Dr. Ryan James</h2>
-            <h4><em>Postdoctoral Scholar</em></h4>
-            <p>I received my BS in Biology from the University of Alabama. Following graduation, I attended the University of Alabama at Birmingham for my MS, and in 2020, I completed my PhD at the University of Louisiana Lafayette. My research interests include understanding the drivers of consumer distribution, movement, and resource use, the role of habitat configuration and composition on ecosystem processes, and the recovery of ecosystem function following restoration and disturbance. Currently at FIU, my research focuses on the impacts of altered freshwater inflows in Florida Bay, and its consequences for seagrass ecosystems.</p>
-            <p>email: wjames@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/ryan_james.jpeg" alt="Dr. Ryan James" class="member-image">
-    </div>
-</div>
+<div class="centered-content">
+  <div class="member-container reversed">
+      <!-- Second member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Dr. Ryan James</h2>
+              <h4><em>Postdoctoral Scholar</em></h4>
+              <p>I received my BS in Biology from the University of Alabama. Following graduation, I attended the University of Alabama at Birmingham for my MS, and in 2020, I completed my PhD at the University of Louisiana Lafayette. My research interests include understanding the drivers of consumer distribution, movement, and resource use, the role of habitat configuration and composition on ecosystem processes, and the recovery of ecosystem function following restoration and disturbance. Currently at FIU, my research focuses on the impacts of altered freshwater inflows in Florida Bay, and its consequences for seagrass ecosystems.</p>
+              <p>email: wjames@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/ryan_james.jpeg" alt="Dr. Ryan James" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container">
-    <!-- third member member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Dr. Jonathan Rodemann</h2>
-            <h4><em>Postdoctoral Scholar</em></h4>
-            <p>Growing up in New Jersey, I developed a love for ocean creatures from a young age. After high school, my interest in marine life brought me to south Florida, where I obtained a B.S. in Marine Science and Biology from the University of Miami. I attended a non-thesis based Master’s program at Northeastern University called the Three Seas Program, where I spent time in Boston, Panama, and Washington state learning about the marine ecosystems of these regions. This program ended with an internship with the Smithsonian’s Tennenbaum Marine Observatories Network looking at the variation in marine consumption pressure along a latitudinal gradient. I was then drawn back down to south Florida, where I started a PhD at FIU in the Coastal Fisheries Lab. I am interested in how biotic and abiotic factors affect fish movement and behavior. During my time at FIU, I am focusing on how habitat transformation caused by a seagrass die-off in Florida Bay has affected the movement and trophic ecology of recreational sportfish.</p>
-            <p>email: jrodeman@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/jon.jpg" alt="Dr. Jonathan Rodemann" class="member-image">
-    </div>
-</div>
 
-<div class="member-container reversed">
-    <!-- Fourth member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Nico Rivas</h2>
-            <h4><em>Phd Candidate</em></h4>
-            <p>I was born in Santiago, Chile and moved to Florida when I was five years old. My family and I went to the beach almost every weekend which sparked my interest in marine life. I attended the University of Central Florida in Orlando to pursue a degree in Biology with a focus in pre-med. Halfway through I joined a lab to gain research experience and decided to switch my focus from pre-med to marine biology. Since then, I earned my B.S. in Biology from UCF and later earned my M.S. in Marine Biology and Ecology from the University of Miami RSMAS. I am now pursuing my Ph.D. here at FIU where I will be researching fish population dynamics in relation to coral restoration. I am studying fish population dynamics in response to coral reef restoration efforts in Culebra, Puerto Rico. We are interested in testing the efficacy of 3D printed corals to restore fish populations as compared to live coral. We are using BRUVS and photogrammetry techniques to track fish populations, coral distribution and recruitment.</p>
-            <p>email: nirivas@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/nico.jpg" alt="Nico Rivas" class="member-image">
-    </div>
-</div>
+  <div class="member-container">
+      <!-- third member member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Dr. Jonathan Rodemann</h2>
+              <h4><em>Postdoctoral Scholar</em></h4>
+              <p>Growing up in New Jersey, I developed a love for ocean creatures from a young age. After high school, my interest in marine life brought me to south Florida, where I obtained a B.S. in Marine Science and Biology from the University of Miami. I attended a non-thesis based Master’s program at Northeastern University called the Three Seas Program, where I spent time in Boston, Panama, and Washington state learning about the marine ecosystems of these regions. This program ended with an internship with the Smithsonian’s Tennenbaum Marine Observatories Network looking at the variation in marine consumption pressure along a latitudinal gradient. I was then drawn back down to south Florida, where I started a PhD at FIU in the Coastal Fisheries Lab. I am interested in how biotic and abiotic factors affect fish movement and behavior. During my time at FIU, I am focusing on how habitat transformation caused by a seagrass die-off in Florida Bay has affected the movement and trophic ecology of recreational sportfish.</p>
+              <p>email: jrodeman@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/jon.jpg" alt="Dr. Jonathan Rodemann" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container">
-    <!-- fifth member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Gina Badlowski</h2>
-            <h4><em>Phd Student</em></h4>
-            <p>My interests and research revolve around seascape ecology, specifically the influence of spatial structure and habitat heterogeneity on the patterns of species interactions, distributions, and movements within marine communities.</p>
-            <p>email: gbadlows@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/gina.jpg" alt="Gina Badlowski" class="member-image">
-    </div>
-</div>
+  <div class="member-container reversed">
+      <!-- Fourth member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Nico Rivas</h2>
+              <h4><em>Phd Candidate</em></h4>
+              <p>I was born in Santiago, Chile and moved to Florida when I was five years old. My family and I went to the beach almost every weekend which sparked my interest in marine life. I attended the University of Central Florida in Orlando to pursue a degree in Biology with a focus in pre-med. Halfway through I joined a lab to gain research experience and decided to switch my focus from pre-med to marine biology. Since then, I earned my B.S. in Biology from UCF and later earned my M.S. in Marine Biology and Ecology from the University of Miami RSMAS. I am now pursuing my Ph.D. here at FIU where I will be researching fish population dynamics in relation to coral restoration. I am studying fish population dynamics in response to coral reef restoration efforts in Culebra, Puerto Rico. We are interested in testing the efficacy of 3D printed corals to restore fish populations as compared to live coral. We are using BRUVS and photogrammetry techniques to track fish populations, coral distribution and recruitment.</p>
+              <p>email: nirivas@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/nico.jpg" alt="Nico Rivas" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container reversed">
-    <!-- Sixth member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Marianna Coppola</h2>
-            <h4><em>PhD Student</em></h4>
-            <p>Marianna is a seascape ecologist with a focus on seagrass dynamics. She applies remote sensing principles to elucidate seagrass spatial patterns, and how these patterns change across multiple spatiotemporal scales in the Florida Keys and in Biscayne Bay.</p>
-            <p>email: mcoppola@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/marianna.jpg" alt="Marianna Coppola" class="member-image">
-    </div>
-</div>
+  <div class="member-container">
+      <!-- fifth member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Gina Badlowski</h2>
+              <h4><em>Phd Student</em></h4>
+              <p>My interests and research revolve around seascape ecology, specifically the influence of spatial structure and habitat heterogeneity on the patterns of species interactions, distributions, and movements within marine communities.</p>
+              <p>email: gbadlows@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/gina.jpg" alt="Gina Badlowski" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container">
-    <!-- Seventh member member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Hannah-Marie Lamle</h2>
-            <h4><em>PhD Student</em></h4>
-            <p>Hannah-Marie spent the first two decades of her life in Indiana. She grew up in Northern Indiana, spending every day of the summer on the lake catching turtles, ID'ing seaweeds, and also wakeboarding and surfing. She went on to Indiana University for her BS in environmental science, and became heavily involved in the Center for Underwater Science. There she spent a year after graduating as a visiting lecturer and research associate, where she taught the open water scuba classes and assisted with research looking at coral recruitment on shipwreck sites. She is focusing her thesis on understanding how environmental gradients impact coral community niche space, facilitating inter and intraspecific variation in species. Specifically, she is focused on how select physiological traits converge to create a spectral signature. She hopes to use hyperspectral imaging to detect changes in spectra intensity and relate that back to individual traits, creating a new, noninvasive measure of coral health. </p>
-            <p>email: hlamle@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/HM.jpg" alt="Hannah-Marie Lamle" class="member-image">
-    </div>
-</div>
+  <div class="member-container reversed">
+      <!-- Sixth member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Marianna Coppola</h2>
+              <h4><em>PhD Student</em></h4>
+              <p>Marianna is a seascape ecologist with a focus on seagrass dynamics. She applies remote sensing principles to elucidate seagrass spatial patterns, and how these patterns change across multiple spatiotemporal scales in the Florida Keys and in Biscayne Bay.</p>
+              <p>email: mcoppola@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/marianna.jpg" alt="Marianna Coppola" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container reversed">
-    <!-- Eigth member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Valentina Bautista</h2>
-            <h4><em>MS Student</em></h4>
-            <p>Valentina was born and grew up in the mountains of Colombia, but came to Miami when she was 10. She subsequently found her passion for the environment through working for our sister lab, the Rehage Coastal Fisheries Science lab, but took an opportunity to study coral community functional trait space with Dr. Santos when he acquired his own lab. She will be graduating in the fall of 2024 and is currently looking for job opportunities!</p>
-            <p>email: vbautist@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/vale.jpg" alt="Valentina Bautista" class="member-image">
-    </div>
-</div>
+  <div class="member-container">
+      <!-- Seventh member member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Hannah-Marie Lamle</h2>
+              <h4><em>PhD Student</em></h4>
+              <p>Hannah-Marie spent the first two decades of her life in Indiana. She grew up in Northern Indiana, spending every day of the summer on the lake catching turtles, ID'ing seaweeds, and also wakeboarding and surfing. She went on to Indiana University for her BS in environmental science, and became heavily involved in the Center for Underwater Science. There she spent a year after graduating as a visiting lecturer and research associate, where she taught the open water scuba classes and assisted with research looking at coral recruitment on shipwreck sites. She is focusing her thesis on understanding how environmental gradients impact coral community niche space, facilitating inter and intraspecific variation in species. Specifically, she is focused on how select physiological traits converge to create a spectral signature. She hopes to use hyperspectral imaging to detect changes in spectra intensity and relate that back to individual traits, creating a new, noninvasive measure of coral health. </p>
+              <p>email: hlamle@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/HM.jpg" alt="Hannah-Marie Lamle" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container">
-    <!-- Ninth member member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Victoria Goldner</h2>
-            <h4><em>Lab Manager</em></h4>
-            <p>Victoria is a Florida Native, hailing from the greater Tampa region, she joined FIU as a lab manager both for the SEL lab as well as our sister lab, <a href="https://myweb.fiu.edu/rehagej/">the Rehage Lab</a>. She received her bachelors at New College Florida and hopes to pursue a higher degree in the future.</p>
-            <p>email: vgoldner@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/victoria.jpg" alt="Victoria Goldner" class="member-image">
-    </div>
-</div>
+  <div class="member-container reversed">
+      <!-- Eigth member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Valentina Bautista</h2>
+              <h4><em>MS Student</em></h4>
+              <p>Valentina was born and grew up in the mountains of Colombia, but came to Miami when she was 10. She subsequently found her passion for the environment through working for our sister lab, the Rehage Coastal Fisheries Science lab, but took an opportunity to study coral community functional trait space with Dr. Santos when he acquired his own lab. She will be graduating in the fall of 2024 and is currently looking for job opportunities!</p>
+              <p>email: vbautist@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/vale.jpg" alt="Valentina Bautista" class="member-image">
+      </div>
+  </div>
 
-<div class="member-container reversed">
-    <!-- Tenth member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Christine Nation</h2>
-            <h4><em>Lab Technician</em></h4>
-            <p>We are so happy to have Christine with us, as she is on a working visa to stay in the US and assist with the data analyzation of our many lab projects. She is Venezuelan, and obtained her MPS degree in Marine Conservation from the University of Miami.</p>
-            <p>email: cnationg@fiu.edu</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/christine.jpg" alt="Christine Nation" class="member-image">
-    </div>
+  <div class="member-container">
+      <!-- Ninth member member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Victoria Goldner</h2>
+              <h4><em>Lab Manager</em></h4>
+              <p>Victoria is a Florida Native, hailing from the greater Tampa region, she joined FIU as a lab manager both for the SEL lab as well as our sister lab, <a href="https://myweb.fiu.edu/rehagej/">the Rehage Lab</a>. She received her bachelors at New College Florida and hopes to pursue a higher degree in the future.</p>
+              <p>email: vgoldner@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/victoria.jpg" alt="Victoria Goldner" class="member-image">
+      </div>
+  </div>
+
+  <div class="member-container reversed">
+      <!-- Tenth member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Christine Nation</h2>
+              <h4><em>Lab Technician</em></h4>
+              <p>We are so happy to have Christine with us, as she is on a working visa to stay in the US and assist with the data analyzation of our many lab projects. She is Venezuelan, and obtained her MPS degree in Marine Conservation from the University of Miami.</p>
+              <p>email: cnationg@fiu.edu</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/christine.jpg" alt="Christine Nation" class="member-image">
+      </div>
+  </div>
 </div>
 ```
