@@ -1,0 +1,8 @@
+---
+title: "Past Research Projects" 
+format:
+  html:
+    css: styles.css
+---
+
+Here is a list of all of the previous research projects of the lab. 
