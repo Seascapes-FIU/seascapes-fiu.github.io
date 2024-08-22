@@ -6,7 +6,6 @@ format:
       body-width: 2800px
       margin-width: 0px 
       gutter-width: 0px
-    css: home.css
 ---
 
 ```{=html}
@@ -27,8 +26,4 @@ format:
         <p>Our lab values collaboration and the use of transdisciplinary science to holistically analyze ecosystem dynamics. We are proud to partner with many different government and nonprofit agencies in South Florida as well as Puerto Rico.</p>
     </div>
 </div>
-
-<div class="FIU-logo">
-  <img src="images/FIU_and_sponsors.png" alt="FIU and Sponsors">
-  </div>
 ```
