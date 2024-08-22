@@ -66,10 +66,18 @@
 /*--------------------------------------------------------------------------*/
 /* formatting for our lab and alumni page */
 
+.centered-content {
+    width: 1200px; /* Takes up two-thirds of the page width */
+    margin: 0 auto; /* Center the container */
+    padding: 0 20px; /* Optional padding to avoid content touching the edges */
+}
+
 .member-container {
     display: flex;
+    align-items: flex-start;
     align-items: center;
     margin-bottom: 20px; /* Space between members */
+    gap: 20px; /* space between text and image */ 
 }
 
 .member-container.reversed {
@@ -96,19 +104,6 @@
 /* Ensure text is well formatted */
 .member-info h2 {
     margin-top: 0;
-}
-
-/* Custom styles for the "Our Lab" page */
-.page-layout.full .main-container {
-    display: block;
-    max-width: none;
-    padding: 0;
-    margin: 0;
-}
-
-.page-layout.full .sidebar-container, 
-.page-layout.full .margin-container {
-    display: none;
 }
 
 
