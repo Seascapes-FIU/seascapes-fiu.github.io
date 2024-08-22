@@ -4,18 +4,33 @@ project:
 website:
   title: "Santos Seascape Ecology Lab"
   navbar:
+    search: false
     right:
-      - current_research.qmd
-      - rolando_santos.qmd
-      - text: "Team"
-        href: our_lab.qmd
-      - lab_alumni.qmd
+      - text: "Research"
+        menu: 
+          - biscayne_bay.qmd
+          - FISHSCAPE.qmd
+          - El_yunque.qmd
+          - Culebra.qmd
+          - past_research.qmd
+      - text: "Personnel"
+        menu: 
+          - rolando_santos.qmd
+          - jenn_rehage.qmd
+          - our_lab.qmd
+          - lab_alumni.qmd
       - news.qmd
       - publications.qmd
       - text: "Opportunities in our Lab"
         href: prospective_students.qmd
       - contact_us.qmd
-    search: false
+    tools:
+      - icon: instagram
+        href: https://www.instagram.com/santos_seascape_ecology/
+      - icon: github
+        href: https://github.com/CoastalFishScience
+    toggle-position: right
+    
     
   page-footer: 
     background: gray
@@ -23,7 +38,15 @@ website:
 
 format:
   html:
-    theme: cosmo
+    css: 
+      - styles.css
+      - home.css
+    grid: 
+      sidebar-width: 0px
+      body-width: 2800px
+      margin-width: 0px
+      gutter-width: 0px
+    
 
 editor: visual
 
