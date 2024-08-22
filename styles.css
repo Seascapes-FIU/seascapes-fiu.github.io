@@ -67,7 +67,7 @@
 /* formatting for our lab and alumni page */
 
 .centered-content {
-    width: 1200px; /* Takes up two-thirds of the page width */
+    width: 66%; /* Takes up two-thirds of the page width */
     margin: 0 auto; /* Center the container */
     padding: 0 20px; /* Optional padding to avoid content touching the edges */
 }
@@ -76,6 +76,7 @@
     display: flex;
     align-items: flex-start;
     align-items: center;
+    margin-top: 20px;
     margin-bottom: 20px; /* Space between members */
     gap: 20px; /* space between text and image */ 
 }
@@ -86,12 +87,12 @@
 
 .main-column {
     flex: 2;
-    padding: 10px;
+    padding: 50px;
 }
 
 .side-column {
     flex: 1;
-    padding: 10px;
+    padding: 50px;
 }
 
 /* Style for the image */
