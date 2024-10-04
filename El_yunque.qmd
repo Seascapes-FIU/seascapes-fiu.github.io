@@ -4,3 +4,46 @@ format:
   html:
     css: styles.css
 ---
+
+```{=html}
+<div class="header-LUQ">
+  <div class="LUQ-text">
+        <h1><i>El Yunque National Forest, Puerto Rico</i></h1>
+  </div>
+</div>
+
+<div class ="centered-content">
+<h2>Effects of Drought on Freshwater Shrimp Movement in Puerto Rican Headwater Streams</h2>
+  <img src="images/LTER-network-square-lg.png" alt="LTER Network Logo" height="350" id="Luquillo1"/>
+  <h4>Overview: (Spearheaded by <a href="lab_alumni.qmd#lauren-kabat">Lauren Kabat</a>)</h4>
+  <p>Changing environmental conditions due to climate change and human disturbance impact organism movement via migration, dispersal or foraging in order to adapt to new resource distribution. In the Caribbean, climate change induced droughts are predicted to increase in frequency and severity, and the need for accurate estimates of organism response is needed. Thus, in order to analyze how organisms respond to drought conditions in Caribbean tropical forests, the effect of drought on movement of freshwater shrimp in two adjacent headwater streams was measured using stream discharge, pool size, and shrimp density via a mark recapture methodology.</p>
+  <p>This experiment took place in the Luquillo Experimental Forest (LEF), part of El Yunque National Forest in northeastern Puerto Rico. This area is also a part of the <a href="https://luquillo.lter.network/">Luquillo Long Term Ecological Research program (LUQ-LTER)</a>. The LEF is one of the most intensely studied neotropical ecosystems, with ecological research beginning here in the 1940s. At 350 meters above sea level, annual precipitation is about 3500mm. While there is slightly less rainfall from January to April, the LEF is considered an aseasonal rainforest as all months receive approximately 100mm of precipitation. In this study, water in one stream, consisting of many step-pools, was diverted around the pools to model future drought conditions. Freshwater shrimp were chosen as the study organism given their role in the aquatic ecosystem, they dominate the food web in Puerto Rican headwater streams. These shrimps provide ecosystem services such as nutrient cycling, and algae control, and connect coastal and montane ecosystems through their amphidromous lifecycles. The three genera of shrimp present in headwater streams in the LEF are <i>Macrobrachium</i>, <i>Atya</i>, and <i>Xiphocaris</i>.</p>
+</div>
+
+<img src="images/lauren_shrimping.jpg" alt="Lauren Kabat undergoing field work" height="400" id="Luquillo2"/>
+
+<div class ="centered-content">
+  <h4>Research Objectives:</h4>
+  <p><b>While research has focused on the effects of disturbance on the abundance and density of shrimp, the direct drivers that cue individual shrimp movement between habitat patches remain uncertain.</b> To fully understand the impacts of drought on shrimp communities in tropical headwater streams, this proposed project will test various tagging technologies and select the most appropriate methodology to track Atya and Xiphocaris shrimp; and use mark-recapture and environmental data to elucidate the drivers of shrimp movement. By investigating the effects of drought on aquatic animal movement, we will better understand the consequences of climate change that affect both the extreme high and low flows.</p>
+</div>
+
+<img src="images/shrimp4.jpg" alt="Tagged shrimp being documented before release." height="500" id="Luquillo3"/>
+
+<div class ="centered-content">
+  <h4>Methods:</h4>
+  <p>The Stream Flow Reduction Experiment (StreamFRE) was conducted in two tributaries of the Espiritu Santo River in Puerto Rico, referred to as the Control Stream and the Experimental Stream. In the Experimental Stream, 50% of water flow was diverted over a 150 m stretch during the dry season from February to July in 2022 and 2023. A capture, mark, and recapture (CMR) study was performed in both streams to track shrimp movement, with shrimp in specific pools marked using visible implant tags. These pools, linked by shallow riffles, were chosen for their ability to retain water during droughts. Shrimp traps were baited and set overnight, and recapture surveys were conducted monthly. Over the course of the study, 1,190 shrimp were tagged, allowing researchers to monitor shrimp movements, particularly during the experimental flow reduction period. Data from collaborators also contributed to tracking the shrimp throughout the area.</p>
+</div>
+
+<div class="image-container-shrimp">
+    <img src="images/shrimp5.png" height="400" id="BEM1"/>
+    <img src="images/shrimp3.jpg" height="400" id="BEM1"/>
+</div>
+
+
+<div class="centered-text">
+  <p>This project is funded by the following sponsors:</p>
+</div>
+
+<img src="logo images/894px-NSF_logo.png" height="300" id="luquillofunding"/>
+
+```

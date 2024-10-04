@@ -1,6 +1,81 @@
 ---
-title: "Culebra, Puerto Rico" 
+title: "Puerto Rico Seascapes" 
 format:
   html:
     css: styles.css
 ---
+
+```{=html}
+<div class="Culebra-header">
+    <div class="culebra-text">
+        <h1><i>Puerto Rico Seascapes</i></h1>
+    </div>
+</div>
+
+<div class ="centered-content">
+<h2>Evaluating Herbivore Impact and Restoration Strategies for Coral Reef Resilience in the Caribbean</h2>
+  <div class="culebra-intro">
+    <p><i>This project consists of two separate grants, together culumating in broadly understanding coral reef resilience and restoration potential in Culebra, Puerto Rico. Please read on to understand both of these projects and their scope!</i></p>
+    </div>
+    <img src="images/Culebra_.jpg" alt="Photogrammetric target laid down on a plot." height="350" id="Culebra1"/>
+  <h4>NFWF Overview: (Spearheaded by <a href="our_lab.qmd#dr-jonathan-rodemann">Nico Rivas</a>)</h4>
+  <p>This project is dedicated to restoring the structural integrity and ecological health of coral reefs in Puerto Rico that have been damaged by hurricanes. By rehabilitating the three-dimensional framework of these reefs, we aim to enhance their resilience, allowing them to better withstand future natural disasters and environmental changes. Coral reefs are vital ecosystems that provide shelter, food, and breeding grounds for countless marine species. Restoring their structure is key to ensuring the long-term biodiversity and functionality of these critical habitats. </p>
+  <h4>Goals and Objectives:</h4>
+  <p>Our primary goal is to rebuild the three-dimensional structure of the reefs to restore their ecological function and support the rich biodiversity they harbor. In doing so, we aim to strengthen their resilience against future hurricanes and the effects of climate change. Additionally, our project seeks to improve the overall health of these reef ecosystems, <img src="images/photo_model.jpg" alt="Example of a photogrammetric model" height="350" id="Culebra2"/> supporting both marine life and the communities that rely on them. </p>
+  <h4>Methods:</h4>
+  <p>Our restoration efforts involve a combination of coral propagation, outplanting, and cutting-edge techniques such as 3D printing and photogrammetry to reconstruct and assess the reefs’ structural integrity. These techniques enable us to accurately restore the physical complexity of the reefs, which is essential for promoting healthy coral growth and providing shelter for marine life. We are also implementing a comprehensive monitoring plan to track the progress and effectiveness of our restoration activities. Collaboration with local communities, researchers at the <a href="https://www.sampr.org/">Sociedad Ambiente Marino</a>, and stakeholders is central to our approach, ensuring that the project not only benefits the environment but also aligns with the needs and goals of Puerto Rico’s coastal communities.</p>
+  <div class="centered-text">
+  <p>This project represents a critical step in the long-term preservation and restoration of Puerto Rico’s coral reefs, ensuring that these ecosystems continue to thrive for future generations.</p>
+  </div>
+</div>
+
+<video id="culebra3" width="640" height="360" controls>
+        <source src="images/cool_bruv.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+
+<div class="centered-content">
+  <h4>RAPID Overview: (Spearheaded by <a href="our_lab.qmd#dr-jonathan-rodemann">Nico Rivas</a>)</h4>
+  <p>Coral reef benthic community assemblage and functioning are controlled in part by herbivores that graze on algae, which compete for space with various taxa, including scleractinian coral and sponge species. In the Caribbean, it is hypothesized that the black sea urchin, <i>Diadema antillarum</i>, is a keystone grazer that controls macroalgae species composition and biomass at low levels and facilitates the recruitment and survival of reef-building corals, leading to a coral-dominated state of reefs. The recent <i>D. antillarum</i> die-off provides the conditions of a natural removal experiment useful to understand the top-down control exertion of this herbivore, especially by quantifying the spatial arrangement progression of benthic functional groups across urchin abundances.</p>
+  <p>This project leverages the existing NFWF grant and gave additional funding to take advantage of the 2021 <i>D. antillarum</i> die off in Puerto Rico to monitoring population dynamics of <i>D. antillarum</i> and the top down effects this has on macroalgae density within the predefined plots of interest at our study sites.</p>
+</div>
+
+<div class="image-container-urchin">
+    <img src="images/urchin1.jpg" alt="D.antillarum dying" height="400" id="BEM1"/>
+    <img src="images/urchin2.jpg" alt="An urchin." height="400" id="BEM1"/>
+</div>
+
+
+<div class="centered-content">
+  <h2>Understanding stony coral community stability over time in the Northeast Marine Corridor</h2>
+  <h4>Puerto Rico SeaGrant Overview: (Spearheaded by <a href="our_lab.qmd#hannah-marie-lamle">Valentina Bautista</a>)</h4>
+  <img src="images/seagrant1.jpg" alt="Valentina Bautista conducting photogrammetric monitoring" height="500" id="culebra4"/>
+  <h4>Goals and Objectives:</h4>
+  <p>The <a href="https://maps.coastalscience.noaa.gov/biomapper/biomapper.html?id=prne">Northeast Marine Corridor (NEMC)</a> encompasses a diverse seascape made up of coral reefs, seagrass beds, nesting beaches, and mangroves forest that support ecosystem functions such as coastal protection, fisheries, and tourism. Local managers with the <a href="https://www.drna.pr.gov/">Puerto Rico Department of Natural and Environmental Resources</a> have identified eleven Areas of Special Interest (ASIs) for coral reef conservation within the NEMC, yet we lack critical data on community traits and demographic performance that are essential for understanding implications to ecological resilience and function.</p>
+  <p>This project aims to enhance coral reef conservation efforts by developing a new ecosystem-based management (EBM) tool for Puerto Rico’s Strategic Management Plan for Coral Reefs in the Northeast Marine Corridor. Current conservation methods rely on simplistic metrics like coral cover, which fail to capture the complex dynamics of reef ecosystems. This project uses a trait-based hypervolume approach to quantify coral community structure and resilience, incorporating ecological traits and demographic data to better predict coral responses to environmental stressors. By improving the accuracy of conservation planning tools, this approach will guide more effective strategies for protecting coral reefs.</p>
+  <h4>Methods:</h4>
+  <p>We will employ advanced digital photogrammetry to create high-resolution (<1 cm) orthorectified photomosaics of coral reefs at key Areas of Special Interest (ASIs) within the Northeast Marine Corridor to quantify Benthic community composition. Environmental conditions, alongside community trait data, will be integrated into the hypervolume analysis to assess coral demographic performance.</p>
+</div>
+
+<video id="culebra3" width="640" height="360" controls>
+        <source src="images/model_video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+  <div class="centered-text">
+    <p>These projects are funded by the following sponsors:</p>
+  </div>
+  
+<div class="image-container-culebra">
+    <img src="logo images/NFWF.jpg"/>
+    <img src="logo images/SAM.png"/>
+    <img src="logo images/894px-NSF_logo.png"/>
+    <img src="logo images/seagrant.png"/>
+    <img src="logo images/DRNA.jpg"/>
+    <img id="habitat-blueprint" src="logo images/Habitat_blueprint.jpg"/>
+</div>
+
+
+</div>
+```
