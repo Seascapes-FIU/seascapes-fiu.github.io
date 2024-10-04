@@ -5,4 +5,36 @@ format:
     css: styles.css
 ---
 
-# We are not currently taking new students at this time. womp womp.
+```{=html}
+<div class="header-opps">
+</div>
+
+<div class ="centered-content">
+  <h1>Opportunities in Our Lab</h1>
+  <h2>Prospective Graduate Students</h2>
+  <p>Dr. Santos advises students through the <a href="https://case.fiu.edu/biology/">Department of Biological Science’s</a> graduate program. Our department offers an MS and a PhD program in Biology. The deadline to apply for Fall is December 1. I am quite selective about the people joining our lab, but am interested in taking students who are passionate about ecology, have a nagging curiosity about nature, are hardworking and are serious about scientific inquiry and graduate school. Graduate school is not necessarily for everyone…. In order to succeed in graduate school you really need to want it! <b> Please note that I am not taking graduate students for the fall of 2025, however if you feel you are a strong fit for the lab, please still reach out with the below information.</b></p>
+  
+
+<div class="image-container-opps">
+    <img src="images/opp_pic1.jpg" alt="Hannah-Marie Lamle" height="300" id="BEM1"/>
+     <img src="images/opp_pic2.jpg" alt="Hannah-Marie Lamle" height="300" id="BEM1"/>
+</div>
+
+  <p>If you are interested in working in my laboratory as a graduate student, please review our lab's website and familiarize yourself with our current projects and recent publications. You should also review the application guidelines from the biology graduate programs first, and contact me before applying. Please email me a copy of your resume or CV, an unofficial copy of your undergraduate and/or graduate transcript (if you have an MS), and a statement of your research interests, why you want to go to graduate school, and why you think our lab is a good match. Prospective students should have some prior research experience and preferably with marine fieldwork.</p>
+  
+  <h2>Prospective Undergraduate interns and technicians</h2>
+   <img src="images/opp_pic3.jpg" height="300" id="opp1"/>
+  <p>If you would like to join our lab as an intern or technician, check out our current research, read some of our publications, and do not hesitate to the respective lab graduate student for the project you are most interested in working with! We are always seeking enthuastiac undergraduates to assist us in our data collection and processing. If you are looking to get experience in marine biology, we would love to have you. Please attach your resume or CV when you reach out to a lab member. There are opportunities for undergraduate interns to gain fieldwork experience in our lab after enough time working with us.</p>
+</div>
+
+<div class="centered-content-opplast">
+   <h2>About our university:</h2>
+   <p>FIU is a R1 public research university (Doctoral universities – highest research activity) and member of the State University System of Florida located in Miami, with a highly diverse, vibrant, and growing student body. Our multiple campuses serve over 58,000 students, making FIU the seventh largest U.S. university, and largest majority-minority serving institution in the US.  In addition, FIU also has the most diverse group of faculty of all universities in the US. The Department of Biology is within the <a href="https://environment.fiu.edu/about/index.html">FIU Institute of Environment</a>, which is an FIU preeminent program whose mission is to, in collaboration with local and international partners, provide data-driven solutions to society’s greatest and most urgent challenges.</p>
+</div>
+
+<div class="image-container-opps">
+    <img src="logo images/Santos_RoundLogoPNG.png" alt="SEL Logo" height="200" id="BEM1"/>
+</div>
+```
+
+

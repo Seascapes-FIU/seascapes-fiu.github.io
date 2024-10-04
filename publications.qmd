@@ -5,11 +5,117 @@ format:
   html:
     css: styles.css
 ---
+<div class="centered-content">
 
 Publications are listed in chronological order.
 
-Identification key: (*Lab Members*, **Graduate Students**, Postdocs\*, † Staff)
+Identification key: (*Lab Members*, **Graduate Students**, Postdocs\*, **†** Staff)
 
-James, W. R.\**,* *Santos, R. O*.*,* *Rehage, J. S*., Doerr, J. C., & Nelson, J. A. (2022). E-scape: Consumer-specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. Journal of Animal Ecology, 91, 381–390. https://doi.org/10.1111/1365-2656.13637
+Castillo, N. A., Santos, R. O., James, W. R., Rezek, R., Cerveny, D., Boucek, R. E., . . . Rehage, J. S. (2024). Differential tissue distribution of pharmaceuticals in a wild subtropical marine fish. AQUATIC TOXICOLOGY, 275, 14 pages. doi:10.1016/j.aquatox.2024.107064
 
+Castillo, N. A., James, W. R., Santos, R. O., Rezek, R., Cerveny, D., Boucek, R. E., . . . Rehage, J. S. (2024). Identifying pathways of pharmaceutical exposure in a mesoconsumer marine fish. JOURNAL OF HAZARDOUS MATERIALS, 477, 16 pages. doi:10.1016/j.jhazmat.2024.135382
+
+Jones, B. L. H., Santos, R. O., James, W. R., Costa, S. V., Adams, A. J., Boucek, R. E., . . . Rehage, J. S. (2024). New directions for Indigenous and local knowledge research and application in fisheries science: Lessons from a systematic review. FISH AND FISHERIES, 25(4), 647-671. doi:10.1111/faf.12831
+
+James, W. R., Furman, B. T., Rodemann, J. R., Costa, S. V., Fratto, Z. W., Nelson, J. A., . . . Santos, R. O. (2024). Widespread habitat loss leads to ecosystem-scale decrease in trophic function. GLOBAL CHANGE BIOLOGY, 30(4), 12 pages. doi:10.1111/gcb.17263
+
+Castillo, N. A., James, W. R., Santos, R. O., Rezek, R., Cerveny, D., Boucek, R. E., . . . Rehage, J. S. (2024). Understanding pharmaceutical exposure and the potential for effects in marine biota: A survey of bonefish (Albula vulpes) across the Caribbean Basin. Chemosphere, 349. doi:10.1016/j.chemosphere.2023.140949
+
+Flaherty-Walia, K. E., Gervasi, C. L., Davis, J. P., Trabelsi, S., Fratto, Z., Santos, R. O., . . . Rehage, J. S. (2023). Seines and baited remote underwater video document consistent spatiotemporal patterns in nekton communities of subtropical coastal habitats. MARINE ECOLOGY PROGRESS SERIES, 722, 37-64. doi:10.3354/meps14418
+
+Gervasi, C. L., Karnauskas, M., Rios, A., Santos, R. O., James, W. R., Rezek, R. J., & Rehage, J. S. (2023). Rapid approach for assessing an unregulated fishery using a series of data-limited tools. MARINE AND COASTAL FISHERIES, 15(5), 22 pages. doi:10.1002/mcf2.10270
+
+Calhoun-Grosch, S., Foster, E. M., James, W. R., Santos, R. O., Rehage, J. S., & Nelson, J. A. (2023). Trophic Niche Metrics Reveal Long-Term Shift in Florida Bay Food Webs. ECOSYSTEMS, 26(6), 1183-1194. doi:10.1007/s10021-023-00825-5
+
+Rezek, R. J., Massie, J. A., Nelson, J. A., Santos, R. O., Viadero, N. M., James, W. R., . . . Rehage, J. S. (2023). The effects of temperature and flooding duration on the structure and magnitude of a floodplain prey subsidy. FRESHWATER BIOLOGY, 68(9), 1518-1529. doi:10.1111/fwb.14145
+
+Rodemann, J. R., James, W. R., Rehage, J. S., Baktoft, H., Costa, S., Ellis, R., . . . Santos, R. (2023). Residency and fine-scale habitat use of juvenile goliath grouper (Epinephelus itajara) in a mangrove nursery. BULLETIN OF MARINE SCIENCE, 99(2), 111-117. doi:10.5343/bms.2022.0061
+
+Campbell, L. J., Castillo, N. A., Dunn, C. D., Perez, A., Schmitter-Soto, J. J., Mejri, S. C., . . . Goldberg, T. L. (2023). Viruses of Atlantic Bonefsh (<i>Albula vulpes</i>) in Florida and the Caribbean show geographic patterns consistent with population declines (Aug, 10.1007/s10641-022-01306-9, 2022). ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 319-320. doi:10.1007/s10641-022-01342-5
+
+Campbell, L. J., Castillo, N. A., Dunn, C. D., Perez, A., Schmitter-Soto, J. J., Mejri, S. C., . . . Goldberg, T. L. (2023). Viruses of Atlantic Bonefish (<i>Albula vulpes</i>) in Florida and the Caribbean show geographic patterns consistent with population declines. ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 303-317. doi:10.1007/s10641-022-01306-9
+
+Boucek, R. E., Rehage, J. S., Castillo, N. A., Dwoskin, E., Lombardo, S. M., Santos, R., . . . Adams, A. J. (2023). Using recreational tournament records to construct a 53-year time series of the Florida Keys recreational Bonefish fishery. ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 279-291. doi:10.1007/s10641-022-01299-5
+
+Rezek, R. J., James, W. R., Bautista, V., Zink, I., Rehage, J. S., & Santos, R. O. (2023). Temporal trends of Biscayne Bay pink shrimp fisheries catch, economic indicators, and potential interactions with South Florida recreational flats fisheries. ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 361-379. doi:10.1007/s10641-022-01314-9
+
+Danylchuk, A. J., Griffin, L. P., Ahrens, R., Allen, M. S., Boucek, R. E., Brownscombe, J. W., . . . Cooke, S. J. (2023). Cascading effects of climate change on recreational marine flats fishes and fisheries (Sept, 10.1007/s10641-022-01333-6, 2022). ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 417. doi:10.1007/s10641-022-01349-y
+
+Danylchuk, A. J., Griffin, L. P., Ahrens, R., Allen, M. S., Boucek, R. E., Brownscombe, J. W., . . . Cooke, S. J. (2023). Cascading effects of climate change on recreational marine flats fishes and fisheries. ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 381-416. doi:10.1007/s10641-022-01333-6
+
+Campbell, L. J., Castillo, N. A., Shenker, J., Owens, L. A., Santos, R. O., Adams, A. J., . . . Goldberg, T. L. (2023). Bone appetit: DNA metabarcoding as a non-lethal alternative to morphological dietary assessment in Atlantic bonefish (<i>Albula vulpes</i>). ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 337-348. doi:10.1007/s10641-022-01328-3
+
+James, W. R., Bautista, V., Rezek, R. J., Zink, I. C., Rehage, J. S., & Santos, R. O. (2023). A review of the potential impacts of commercial inshore pink shrimp fisheries on the recreational flats fishery in Biscayne Bay, FL, USA. ENVIRONMENTAL BIOLOGY OF FISHES, 106(2), 349-360. doi:10.1007/s10641-022-01319-4
+
+Massie, J. A., Santos, R. O., Rezek, R. J., James, W. R., Viadero, N. M., Boucek, R. E., . . . Rehage, J. S. (2022). Primed and cued: long-term acoustic telemetry links interannual and seasonal variations in freshwater flows to the spawning migrations of Common Snook in the Florida Everglades. MOVEMENT ECOLOGY, 10(1), 20 pages. doi:10.1186/s40462-022-00350-5
+
+Gervasi, C. L., Nelson, J. A., Swart, P. K., Santos, R. O., Rezek, R. J., James, W. R., . . . Rehage, J. S. (2022). Otolith stable isotope micro-sampling to discriminate poorly studied stocks: Crevalle Jack in the eastern gulf of Mexico. ESTUARINE COASTAL AND SHELF SCIENCE, 278, 14 pages. doi:10.1016/j.ecss.2022.108130
+
+Rehage, J. S., Boucek, R. E., Santos, R. O., Massie, J. A., Viadero, N. M., & Rezek, R. J. (2022). Untangling Flow-Ecology Relationships: Effects of Seasonal Stage Variation on Common Snook Aggregation and Movement Rates in the Everglades. ESTUARIES AND COASTS, 45(7), 2059-2069. doi:10.1007/s12237-022-01065-x
+
+Gervasi, C. L., Massie, J. A., Rodemann, J., Trabelsi, S., Santos, R. O., & Rehage, J. S. (2022). Recreational Angler Contributions to Fisheries Management Are Varied and Valuable: Case Studies from South Florida. FISHERIES, 47(11), 469-477. doi:10.1002/fsh.10823
+
+James, W. R., Santos, R. O., Rodemann, J. R., Rezek, R. J., Fratto, Z. W., Furman, B. T., . . . Nelson, J. A. (2022). Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA. ICES JOURNAL OF MARINE SCIENCE, 79(6), 1831-1842. doi:10.1093/icesjms/fsac112
+
+Patrick, C. J., Kominoski, J. S., McDowell, W. H., Branoff, B., Lagomasino, D., Leon, M., . . . Zou, X. (2022). A general pattern of trade-offs between ecosystem resistance and resilience to tropical cyclones. SCIENCE ADVANCES, 8(9), 10 pages. doi:10.1126/sciadv.abl9155
+
+Santos, R. O., James, W. R., Nelson, J. A., Rehage, J. S., Serafy, J., Pittman, S. J., & Lirman, D. (2022). Influence of seascape spatial pattern on the trophic niche of an omnivorous fish. ECOSPHERE, 13(2), 18 pages. doi:10.1002/ecs2.3944
+
+James, W. R., Santos, R. O., Rehage, J. S., Doerr, J. C., & Nelson, J. A. (2022). <i>E-scape</i>: Consumer-specific landscapes of energetic resources derived from stable isotope analysis and remote sensing. JOURNAL OF ANIMAL ECOLOGY, 91(2), 381-390. doi:10.1111/1365-2656.13637
+
+Gervasi, C. L., Santos, R. O., Rezek, R. J., James, W. R., Boucek, R. E., Bradshaw, C., . . . Rehage, J. S. (2022). Bottom-up conservation: using translational ecology to inform conservation priorities for a recreational fishery. CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES, 79(1), 47-62. doi:10.1139/cjfas-2021-0024
+
+James, W. R., Topor, Z. M., & Santos, R. O. (2021). Seascape Configuration Influences the Community Structure of Marsh Nekton. ESTUARIES AND COASTS, 44(6), 1521-1533. doi:10.1007/s12237-020-00853-7
+
+Rodemann, J. R., James, W. R., Santos, R. O., Furman, B. T., Fratto, Z. W., Bautista, V., . . . Rehage, J. S. (2021). Impact of Extreme Disturbances on Suspended Sediment in Western Florida Bay: Implications for Seagrass Resilience. FRONTIERS IN MARINE SCIENCE, 8, 13 pages. doi:10.3389/fmars.2021.633240
+
+Pittman, S. J., Yates, K. L., Bouchet, P. J., Alvarez-Berastegui, D., Andrefouet, S., Bell, S. S., . . . Young, M. (2021). Seascape ecology: identifying research priorities for an emerging ocean sustainability science. MARINE ECOLOGY PROGRESS SERIES, 663, 1-29. doi:10.3354/meps13661
+
+Blanchard, J. R., Santos, R. O., & Rehage, J. S. (2021). Sociability interacts with temporal environmental variation to spatially structure metapopulations: A fish dispersal simulation in an ephemeral landscape. ECOLOGICAL MODELLING, 443, 11 pages. doi:10.1016/j.ecolmodel.2021.109458
+
+Hogan, J. A., Feagin, R. A., Starr, G., Ross, M., Lin, T. -C., O'connell, C., . . . Patrick, C. J. (2020). A Research Framework to Integrate Cross-Ecosystem Responses to Tropical Cyclones. BIOSCIENCE, 70(6), 477-489. doi:10.1093/biosci/biaa034
+
+Rezek, R. J., Massie, J. A., Nelson, J. A., Santos, R. O., Viadero, N. M., Boucek, R. E., & Rehage, J. S. (2020). Individual consumer movement mediates food web coupling across a coastal ecosystem. ECOSPHERE, 11(12), 11 pages. doi:10.1002/ecs2.3305
+
+Koval, G., Rivas, N., D'Alessandro, M., Hesley, D., Santos, R., & Lirman, D. (2020). Fish predation hinders the success of coral restoration efforts using fragmented massive corals. PEERJ, 8, 20 pages. doi:10.7717/peerj.9978
+
+Strickland, B. A., Massie, J. A., Viadero, N., Santos, R., Gastrich, K. R., Paz, V., . . . Heithaus, M. R. (2020). Movements of Juvenile Bull Sharks in Response to a Major Hurricane Within a Tropical Estuarine Nursery Area. ESTUARIES AND COASTS, 43(5), 1144-1157. doi:10.1007/s12237-019-00600-7
+
+Massie, J. A., Strickland, B. A., Santos, R. O., Hernandez, J., Viadero, N., Boucek, R. E., . . . Rehage, J. S. (2020). Going Downriver: Patterns and Cues in Hurricane-Driven Movements of Common Snook in a Subtropical Coastal River. ESTUARIES AND COASTS, 43(5), 1158-1173. doi:10.1007/s12237-019-00617-y
+
+Stipek, C., Santos, R., Babcock, E., & Lirman, D. (2020). Modelling the resilience of seagrass communities exposed to pulsed freshwater discharges: A seascape approach. PLOS ONE, 15(2), 15 pages. doi:10.1371/journal.pone.0229147
+
+Santos, R. O., Varona, G., Avila, C. L., Lirman, D., & Collado-Vides, L. (2020). Implications of macroalgae blooms to the spatial structure of seagrass seascapes: The case of the <i>Anadyomene</i> spp. (Chlorophyta) bloom in Biscayne Bay, Florida. MARINE POLLUTION BULLETIN, 150, 12 pages. doi:10.1016/j.marpolbul.2019.110742
+
+Eggenberger, C. W., Santos, R. O., Frankovich, T. A., James, W. R., Madden, C. J., Nelson, J. A., & Rehage, J. S. (2019). Coupling telemetry and stable isotope techniques to unravel movement: Snook habitat use across variable nutrient environments. FISHERIES RESEARCH, 218, 35-47. doi:10.1016/j.fishres.2019.04.008
+
+Boucek, R. E., Trotter, A. A., Blewett, D. A., Ritch, J. L., Santos, R., Stevens, P. W., . . . Rehage, J. (2019). Contrasting river migrations of Common Snook between two Florida rivers using acoustic telemetry. FISHERIES RESEARCH, 213, 219-225. doi:10.1016/j.fishres.2018.12.017
+
+Kroloff, E. K. N., Heinen, J. T., Braddock, K. N., Rehage, J. S., & Santos, R. O. (2019). Understanding the decline of catch-and-release fishery with angler knowledge: a key informant approach applied to South Florida bonefish. ENVIRONMENTAL BIOLOGY OF FISHES, 102(2), 319-328. doi:10.1007/s10641-018-0812-5
+
+Santos, R. O., Schinbeckler, R., Viadero, N., Larkin, M. F., Rennert, J. J., Shenker, J. M., & Rehage, J. S. (2019). Linking bonefish (Albula vulpes) populations to nearshore estuarine habitats using an otolith microchemistry approach. ENVIRONMENTAL BIOLOGY OF FISHES, 102(2), 267-283. doi:10.1007/s10641-018-0839-7
+
+Rehage, J. S., Santos, R. O., Kroloff, E. K. N., Heinen, J. T., Lai, Q., Black, B. D., . . . Adams, A. J. (2019). How has the quality of bonefishing changed over the past 40years? Using local ecological knowledge to quantitatively inform population declines in the South Florida flats fishery. ENVIRONMENTAL BIOLOGY OF FISHES, 102(2), 285-298. doi:10.1007/s10641-018-0831-2
+
+Santos, R. O., Rehage, J. S., Kroloff, E. K. N., Heinen, J. E., & Adams, A. J. (2019). Combining data sources to elucidate spatial patterns in recreational catch and effort: fisheries-dependent data and local ecological knowledge applied to the South Florida bonefish fishery. ENVIRONMENTAL BIOLOGY OF FISHES, 102(2), 299-317. doi:10.1007/s10641-018-0828-x
+
+Brownscombe, J. W., Danylchuk, A. J., Adams, A. J., Black, B., Boucek, R., Power, M., . . . Cooke, S. J. (2019). Bonefish in South Florida: status, threats and research needs. ENVIRONMENTAL BIOLOGY OF FISHES, 102(2), 329-348. doi:10.1007/s10641-018-0820-5
+
+Santos, R. O., Lirman, D., Pittman, S. J., & Serafy, J. E. (2018). Spatial patterns of seagrasses and salinity regimes interact to structure marine faunal assemblages in a subtropical bay. MARINE ECOLOGY PROGRESS SERIES, 594, 21-38. doi:10.3354/meps12499
+
+Boucek, R. E., Heithaus, M. R., Santos, R., Stevens, P., & Rehage, J. S. (2017). Can animal habitat use patterns influence their vulnerability to extreme climate events? An estuarine sportfish case study. GLOBAL CHANGE BIOLOGY, 23(10), 4045-4057. doi:10.1111/gcb.13761
+
+Santos, R. O., Rehage, J. S., Adams, A. J., Black, B. D., Osborne, J., & Kroloff, E. K. N. (2017). Quantitative assessment of a data-limited recreational bonefish fishery using a time-series of fishing guides reports. PLOS ONE, 12(9), 19 pages. doi:10.1371/journal.pone.0184776
+
+Santos, R. O., Rehage, J. S., Boucek, R., & Osborne, J. (2016). Shift in recreational fishing catches as a function of an extreme cold event. ECOSPHERE, 7(6), 16 pages. doi:10.1002/ecs2.1335
+
+Santos, R. O., Lirman, D., & Pittman, S. J. (2016). Long-term spatial dynamics in vegetated seascapes: fragmentation and habitat loss in a human-impacted subtropical lagoon. MARINE ECOLOGY-AN EVOLUTIONARY PERSPECTIVE, 37(1), 200-214. doi:10.1111/maec.12259
+
+Lirman, D., Thyberg, T., Santos, R., Schopmeyer, S., Drury, C., Collado-Vides, L., . . . Serafy, J. (2014). SAV Communities of Western Biscayne Bay, Miami, Florida, USA: Human and Natural Drivers of Seagrass and Macroalgae Abundance and Distribution Along a Continuous Shoreline. ESTUARIES AND COASTS, 37(5), 1243-1255. doi:10.1007/s12237-014-9769-6
+
+Santos, R. O., & Lirman, D. (2012). Using habitat suitability models to predict changes in seagrass distribution caused by water management practices. CANADIAN JOURNAL OF FISHERIES AND AQUATIC SCIENCES, 69(8), 1380-1388. doi:10.1139/F2012-018
+
+Santos, R. O., Lirman, D., & Serafy, J. E. (2011). Quantifying freshwater-induced fragmentation of submerged aquatic vegetation communities using a multi-scale landscape ecology approach. MARINE ECOLOGY PROGRESS SERIES, 427, 233-246. doi:10.3354/meps08996
+
+Lirman, D., Thyberg, T., Herlan, J., Hill, C., Young-Lahiff, C., Schopmeyer, S., . . . Drury, C. (2010). Propagation of the threatened staghorn coral Acropora cervicornis: methods to minimize the impacts of fragment collection and maximize production. CORAL REEFS, 29(3), 729-735. doi:10.1007/s00338-010-0621-6
 

@@ -11,35 +11,32 @@
     height: 1in;
     width: 100%;
     display: flex;
-    background-image: url('/images/home-background.jpg');
+    background-color: rgba(84, 177, 204, 1);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-/* Style when scrolling down */
-.navbar.scrolled {
-    background-color: lightgray; /* Change background color when scrolled */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow to distinguish from content */
+.navbar-logo {
+    height: 60px !important;
+    width: auto !important;
+    max-height: none !important;
+    margin-left: 0;
 }
 
 /* Adjust the website title text and logo container */
 .navbar .navbar-brand {
-    font-size: 40px;
-    position: absolute;
-   /* Top margin for positioning */
+    font-size: 24px;
 }
 
 /* Add spacing between navbar links */
 .navbar .navbar-nav .nav-link {
-    margin-right: 20px; /* Adjust this value as needed */
+    margin-right: 15px; /* Adjust this value as needed */
 }
 
 /* Set the color of the website title text and navbar links */
 .navbar .navbar-brand,
 .navbar .navbar-nav .nav-link {
     color: white;
-    padding: 5px 10px; /* Add padding for better appearance */
-    border-radius: 5px; /* Optional: add rounded corners */
 }
 
 /* Change text color on hover */
@@ -52,6 +49,17 @@
 .navbar .navbar-nav .nav-link {
     text-decoration: none;
 }
+
+/* Align the dropdown menu itself to the right */
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    background-color: rgba(84, 177, 204, 0.9);
+    padding: 10px; /* Add some padding around the links */
+    border-radius: 5px;
+}
+
 
 /*--------------------------------------------------------------------------*/
 /* formatting for footer */
@@ -67,18 +75,16 @@
 /* formatting for our lab and alumni page */
 
 .centered-content {
-    width: 66%; /* Takes up two-thirds of the page width */
-    margin: 0 auto; /* Center the container */
-    padding: 0 20px; /* Optional padding to avoid content touching the edges */
+  margin: 15%;
+  margin-top: 100px;
+  margin-bottom: 25px;
+  clear: both;
 }
 
 .member-container {
     display: flex;
-    align-items: flex-start;
     align-items: center;
-    margin-top: 20px;
     margin-bottom: 20px; /* Space between members */
-    gap: 20px; /* space between text and image */ 
 }
 
 .member-container.reversed {
@@ -87,12 +93,12 @@
 
 .main-column {
     flex: 2;
-    padding: 50px;
+    padding: 10px;
 }
 
 .side-column {
     flex: 1;
-    padding: 50px;
+    padding: 10px;
 }
 
 /* Style for the image */
@@ -107,31 +113,443 @@
     margin-top: 0;
 }
 
+/* Custom styles for the "Our Lab" page */
+.page-layout.full .main-container {
+    display: block;
+    max-width: none;
+    padding: 0;
+    margin: 0;
+}
+
+.page-layout.full .sidebar-container, 
+.page-layout.full .margin-container {
+    display: none;
+}
+
 
 /*--------------------------------------------------------------------------*/
-/* Formatting for current research blocks*/ 
+/* FISHSCAPE page */ 
 
-.body-section {
-    background-color: white;
+.FISHSCAPE-header {
+    background-image: url("images/fishscape_header.gif");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: ;
+    justify-content: right;
+    padding: 60px;
+    color: white; /* Text color on top of the image */
+    text-align: center;
+    position: relative;
+    margin-top: 0;
 }
 
-.body-section.gray {
-    background-color: #f0f0f0; /* Light gray */
+.fishscape-text h1{
+  font-size: 3rem;
 }
 
-.image-gallery {
-    display: flex; /* Use flexbox to arrange images side by side */
-    gap: 10px; /* Optional: Adds space between images, adjust as needed */
-    margin-top: 20px;/* Adds space above the gallery */
-    margin-bottom: 20px;
-    max-width: 100%; /* Ensure the container doesn’t exceed the body width */
-    width: 100%;
-    box-sizing: border-box; /* Include padding and border in element's total width and height */
+#Fishscape {
+float: left;    
+ margin: 0 15px 0 0;
 }
 
-.image-gallery img {
-    flex: 1; /* Allow images to grow and shrink equally */
-    max-width: calc(33.33% - 10px); /* Ensure images do not overflow their container */
-    height: auto; /* Maintain aspect ratio of images */
-    box-sizing: border-box;
+#drones {
+  float: right;
+  margin: 0 0 0 15px;
+}
+
+#fishscape2  {
+  display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+#fishscape3 {
+float: left;    
+ margin: 0 15px 0 0;
+}
+
+#stable-isotope  {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+#fishscape-funding1  {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+.centered-text {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+/*---------------------------------------------------------------------------*/
+/* Biscayne Bay page*/
+
+.header-BB {
+    background-image: url("images/Panorama_Seine.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: flex-end;
+    padding: 60px;
+    color: white; /* Text color on top of the image */
+    text-align: left;
+    position: relative;
+    margin-top: 0;
+}
+
+.BB-text h1{
+  font-size: 3em;
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* El Yunque Page */
+
+.header-LUQ {
+    background-image: url("images/elyunque_header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+    color: white; /* Text color on top of the image */
+    text-align: left;
+    position: relative;
+    margin-top: 0;
+}
+
+.LUQ-text h1{
+  font-size: 3em;
+  max-width: 600px;
+}
+
+#Luquillo1 {
+float: right;    
+ margin: 0 0 0 15px;
+}
+
+#Luquillo2  {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+#Luquillo3 {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+.image-container-shrimp {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;         /* Center the images vertically (if necessary) */
+    gap: 20px;                   /* Optional: adds space between the images */
+}
+
+
+.image-container img {              
+    height: auto;                /* Maintain the aspect ratio of the images */
+}
+
+#luquillofunding {
+ display: block;
+ margin: 0 auto 25px auto;
+ max-width: 100%;
+}
+
+/*--------------------------------------------------------------------------*/
+/* Culebra Page */
+
+.Culebra-header {
+    background-image: url("images/culebra_header.gif");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+    color: white; /* Text color on top of the image */
+    text-align: left;
+    position: relative;
+    margin-top: 0;
+}
+
+.culebra-text h1{
+  font-size: 3em;
+}
+
+.culebra-intro {
+  text-align: center;
+  margin: 8%;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-size: 1em;
+  padding: 0px;
+}
+
+#Culebra1  {
+  float: right;    
+  margin: 0 0 0 15px;
+}
+
+#Culebra2  {
+  float: left;    
+  margin: 0 15px 0 0;
+}
+
+#culebra3  {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+
+.image-container-urchin {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;  /* Center the images vertically (if necessary) */
+    gap: 15px;                   /* Optional: adds space between the images */
+    margin: 0 0 200px 0;
+}
+
+#culebra4  {
+  float: right;    
+  margin: 0 0 0 15px;
+}
+
+.image-container-culebra {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;         /* Center the images vertically (if necessary) */
+    gap: 15px;                   /* Optional: adds space between the images */
+    margin: 0 100px 50px 100px;
+}
+
+
+.image-container-culebra img {
+    display: block;            /* Ensure images are treated as block-level elements */
+    max-width: 15%;           /* Ensure images don't overflow their container */
+    height: auto;              /* Maintain aspect ratio */
+}
+
+#habitat-blueprint {
+    max-width: 30%; /* Make this image larger */
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* Coastal Fisheries research page */ 
+
+.fisheries-header {
+    background-image: url("images/rehage-header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+    color: white; /* Text color on top of the image */
+    text-align: left;
+    position: relative;
+    margin-top: 0;
+}
+
+.centered-logo {
+  text-align: center;
+  margin: 0;
+  margin-bottom: 25px;
+  padding: 0;
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* Rolo's Page */ 
+
+.centered-content-rolo {
+  font-size: 20px;
+  margin: 15%;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+
+#rolo1 {
+float: right;    
+ margin: 0 0 0 15px;
+}
+
+#rolo2 {
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+#rolo3  {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+.title {
+    display: none;
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* Jenns Page */ 
+
+.centered-content-jenn {
+  font-size: 20px;
+  margin: 15%;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+
+#Jenn1 {
+float: left;    
+ margin: 0 15px 0 0;
+}
+
+#Jenn2 {
+  float: right;
+  margin: 0 0 0 15px;
+}
+
+#Jenn3  {
+ display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+.title {
+    display: none;
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* News Page */
+
+.news h1 {
+    margin-top: 50px;
+}
+
+.image-container {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;         /* Center the images vertically (if necessary) */
+    gap: 20px;                   /* Optional: adds space between the images */
+}
+
+.image-container img {
+    max-width: 35%;              /* Adjust the width of each image */
+    height: auto;                /* Maintain the aspect ratio of the images */
+}
+
+#news {
+  display: block;
+ margin: 0 auto;
+ max-width: 100%;
+}
+
+
+/*--------------------------------------------------------------------------*/
+/* Opportunities in our lab page */
+
+
+.header-opps {
+    background-image: url("images/opp_header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+    position: relative;
+    margin-top: 0;
+}
+
+#opp1 {
+  float: left;
+  margin: 0 15px 50px 0;
+}
+
+.centered-content-opplast {
+  margin: 15%;
+  margin-top: 150px;
+  margin-bottom: 25px;
+  clear: both;
+}
+
+.image-container-opps {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;         /* Center the images vertically (if necessary) */
+    gap: 15px;                   /* Optional: adds space between the images */
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+/*--------------------------------------------------------------------------*/
+/* Contact Us page */
+
+
+.contact-header {
+    background-image: url("images/contact_us_header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 0;
+}
+
+.contact-text h1{
+  font-size: 5em;
+  margin: 0;
+}
+
+.centered-content-contact {
+  margin: 15%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-size: 18pt;
+}
+
+.centered-content-contact h2, {
+  font-size: 30pt;
+}
+
+.centered-content-contact h4 {
+  font-size: 18pt;
+}
+
+
+
+.contact-footer {
+  background-image: url("images/contact_footer.jpg");
+  background-size: cover;
+  background-position: top;
+  height: 60vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white; /* Text color on top of the image */
+  text-align: center;
+  position: relative;
+  margin: 0;
+  padding: 0;
 }
