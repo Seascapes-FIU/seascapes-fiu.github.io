@@ -6,24 +6,24 @@ format:
       body-width: 2800px
       margin-width: 0px 
       gutter-width: 0px
+    css: home.css
 ---
 
 ```{=html}
 <div class="hero-image">
-    <div class="intro-text">
-        <h1>Welcome to Our Lab</h1>
-        <p>We are a multidisciplinary lab within the <a href="https://environment.fiu.edu/">Institute of Environment</a> broadly interested in studying the interactions and relationships between different components of marine and aquatic environments, particularly relating to spatial patterning and temporal dynamics.</p>
-    </div>
 </div>
 
 <div class="centered-text"
-  <p>Each member in our lab is driven by understanding spatial patterning of aquatic and marine environments, our unofficial slogan is "from the streams to the seas." Our team is specialized in applying traditional ecological theory to explain where organisms are distributed in the environment. This can be as large as creating a habitat suitability model for seagrass restoration in Biscyane Bay using remote sensing techniques, to assessing fish movement across habitats in the Florida Keys, to assessing micro-suitability plots for coral settlement. While our projects sound very different, they all are rooted in the foundations of landscape ecology and furthering our understanding of the habitat connectivity of various marine and aquatic environments. We are passionate about understanding these drivers to further aid us in creating resilient ecosystems in the face of Climate Change.</p>
-  </div>
+  <h2><i>Welcome to our lab!</i></h2>
+   <p>The Santos Seascape Ecology Lab is located on Florida International University's stunning Biscayne Bay Campus. We are a multidisciplinary lab, situated in the <a href="https://environment.fiu.edu/">Institute of Environment</a> broadly interested in studying the interactions and relationships between different components of marine and aquatic environments. Please read on and explore our website to find our more about who we are!</p>
+   <img src="/images/FIU_IOE.jpg" alt="FIU IOE logo" height="300">
+  <p>Each member in our lab is driven by understanding spatial patterning of aquatic and marine environments, our unofficial slogan is <b>"from the streams to the seas."</b> Our team is specialized in applying traditional ecological theory as well as concepts in landscape and movement ecology to study how aquatic  communities respond to habitat quality, loss, and fragmentation. We apply this multidisciplinary approach to studies in tropical forests, mangroves, seagrass, and coral reef ecosystems. Some examples of our work include creating a habitat suitability model for seagrass restoration in Biscyane Bay using remote sensing techniques, to assessing fish movement across habitats in the Florida Keys, to creating micro-suitability plots for coral settlement. While our projects sound very different, they all are rooted in the foundations of seascape ecology and furthering our understanding of the habitat connectivity of various marine and aquatic environments. We are passionate about understanding these drivers to further aid us in creating resilient ecosystems in the face of Climate Change, with the goal to inform conservation, management, and restoration strategies.</p>
+</div>
 
 
 <div class="hero-image2">
-    <div class="intro-text">
-        <p>Our lab values collaboration and the use of transdisciplinary science to holistically analyze ecosystem dynamics. We are proud to partner with many different government and nonprofit agencies in South Florida as well as Puerto Rico.</p>
+    <div class="intro-text-2">
+        <p>Our lab values collaboration and the use of transdisciplinary science to holistically analyze ecosystem dynamics. We are proud to partner with many government and nonprofit agencies in South Florida as well as Puerto Rico.</p>
     </div>
 </div>
 ```

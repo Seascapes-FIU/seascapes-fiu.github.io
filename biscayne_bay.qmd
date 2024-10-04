@@ -5,4 +5,19 @@ format:
     css: styles.css
 ---
 
+```{=html}
 
+<div class="header-BB">
+  <div class="BB-text">
+        <h1><i>Biscayne Bay, Florida</i></h1>
+  </div>
+</div>
+  
+<div class ="centered-content">
+<h2>Seagrass seascape state, stability, and function in relation to water quality in Biscayne Bay </h2>
+  <h4>Overview:</h4>
+  <p>Biscayne Bay submerged aquatic vegetation (SAV) communities are composed mainly of seagrass species and provide many valuable ecosystem functions and services. These seagrass communities are dynamic, displaying spatiotemporal variation in the amount and configuration of seagrass seascapes but have been declining over time. Proper management of seagrass ecosystems requires more information on the causes and impacts of shifts in seascape state, stability, and functioning. Water quality is increasingly becoming an issue in Biscayne Bay, leading to problems for seagrass ecosystems and their biota. In this project, we focus on understanding the drivers of seagrass seascape state, stability, and functioning in Biscayne Bay. We will address three main objectives: 1) Quantify the spatiotemporal patterns of the state and stability of seagrass seascapes, 2) Quantify the relationship between seagrass seascape state and stability and seagrass function, and 3) Determine the relationship between water quality and seagrass seascape state, stability, and function. </p>
+  <h4>Our Role:</h4>
+  <p></p>
+</div>
+```

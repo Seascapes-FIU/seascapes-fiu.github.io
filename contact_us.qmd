@@ -5,6 +5,25 @@ format:
     css: styles.css
 ---
 
-# Please feel free to contact any one of our members directly, or fill out this form below!
+```{=html}
+<div class ="contact-header">
+  <div class="contact-text">
+        <h1><i>Contact Information</i></h1>
+  </div>
+</div>
 
-form
+<div class="centered-content-contact">
+  <h2>Looking to stop by or give us a call? Here is information on where to do so:</h2>
+  <p>Santos Seascape Ecology Lab</p>
+  <p>Florida International University Biscayne Bay Campus</p> 
+  <p>AC220a, 3000 NE 151st St, North Miami, FL 33181.</p>
+  <p> - - - </p>
+  <p>Dr. Rolando Santos</p>
+  <p>Florida International University Biscayne Bay Campus</p>
+  <p>MSB351, 3000 NE 151st St, North Miami, FL 33181.</p>
+  <p>(305)-348-3095</p>
+  <h4>Additionally, all of our lab members are available to be contacted individually via their email addresses, which can be found on the team page under the personnel tab, linked <a href="our_lab.qmd">here.</a>
+</div> 
+
+
+```
