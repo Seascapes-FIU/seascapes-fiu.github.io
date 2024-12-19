@@ -1,0 +1,55 @@
+project:
+  type: website
+
+website:
+  title: "Santos Seascape Ecology Lab"
+  
+  navbar:
+    logo: 'logo images/Santos_Round_Logo_NoBackground.png'
+    search: false
+    right:
+      - text: "Research"
+        menu: 
+          - biscayne_bay.qmd
+          - FISHSCAPE.qmd
+          - El_yunque.qmd
+          - Culebra.qmd
+          - Rehage_Lab.qmd
+      - text: "Personnel"
+        menu: 
+          - rolando_santos.qmd
+          - jenn_rehage.qmd
+          - our_lab.qmd
+          - lab_alumni.qmd
+      - news.qmd
+      - publications.qmd
+      - text: "Opportunities in our Lab"
+        href: prospective_students.qmd
+      - contact_us.qmd
+    tools:
+      - icon: instagram
+        href: https://www.instagram.com/santos_seascape_ecology/
+      - icon: github
+        href: https://github.com/CoastalFishScience
+    toggle-position: right
+    collapse: true
+    
+    
+  page-footer: 
+    background: gray
+    left: © 2024 Santos Seascape Ecology Lab
+    right: AC220 3000 NE 151st St, North Miami, FL 33181
+
+format:
+  html:
+    css: 
+      - styles.css
+      - home.css
+    grid: 
+      sidebar-width: 0px
+      body-width: 2800px
+      margin-width: 0px
+      gutter-width: 0px
+    
+
+

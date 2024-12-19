@@ -1,0 +1,5 @@
+[1,"==> quarto preview --render all --no-watch-inputs --no-browse\n\n"]
+[1,"Rendering:\n"]
+[1,"\r[ 1/15] biscayne_bay.qmd\n\r[ 2/15] contact_us.qmd\n\r[ 3/15] Culebra.qmd\n\r[ 4/15] El_yunque.qmd\n\r[ 5/15] FISHSCAPE.qmd\n\r[ 6/15] index.qmd\n\r[ 7/15] jenn_rehage.qmd\n\r[ 8/15] lab_alumni.qmd\n\r[ 9/15] news.qmd\n\r[10/15] our_lab.qmd\n\r[11/15] past_research.qmd\n\r[12/15] prospective_students.qmd\n\r[13/15] publications.qmd\n\r[14/15] Rehage_Lab.qmd\n\r[15/15] rolando_santos.qmd\n\nWatching files for changes\nBrowse at http://localhost:6477/\n"]
+[1,"GET: /\n"]
+[1,"ERROR: Unexpected error while scanning for file changes: The system cannot find the file specified. (os error 2): stat 'C:\\Users\\hanna\\OneDrive - Florida International University\\R\\seascapes-fiu.github.io\\rolando_santos.qmd'\n"]
