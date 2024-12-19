@@ -3,24 +3,37 @@ title: "Lab Alumni"
 format:
   html:
     css: styles.css
-    grid: 
-      sidebar-width: 0px
-      body-width: 1200px
-      margin-width: 0px
 ---
 
 ```{=html}
-<div class="member-container">
-    <!-- First member -->
-    <div class="main-column">
-        <div class="member-info">
-            <h2>Lauren Kabat</h2>
-            <h4><em>MS</em></h4>
-            <p>Lauren was the first graduate of the SEL lab, where she studied shrimp movement in mountain step-pools in El Yunque National Forest, Puerto Rico.</p>
-        </div>
-    </div>
-    <div class="side-column">
-        <img src="images/lauren.jpg" alt="Lauren Kabat" class="member-image">
-    </div>
-</div>
+<div class="centered-content">
+  <div class="member-container">
+      <!-- First member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Lauren Kabat</h2>
+              <h4><em>M.S. 2021 - 2023</em></h4>
+              <p>Lauren was the first graduate of the SEL lab, where she studied shrimp movement in response to water diversion in mountain step-pools in El Yunque National Forest, Puerto Rico. This research is significant as it can provide insights into how the tropical forest ecosystems of Puerto Rico will respond to altered climate conditions due to warming. Since graduating, she took some time off to restore a sailboat and venture "wherever the wind took her" before landing a summer seasonal job in Alaska as an ecological tour guide. Now, she has made the move to the big island of Hawai'i, where she will be seeking employment in a marine science related job position. </p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/lauren.jpg" alt="Lauren Kabat, M.S." class="member-image">
+      </div>
+  </div>
+  
+  <div class="member-container reversed">
+      <!-- Second member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Valentina Bautista</h2>
+              <h4><em>M.S. 2022 - 2024</em></h4>
+              <p>Valentina Bautista is a recent gradute of the SEL lab, her focus was in quantifying the trait space of geographic regions of Puerto Rico both across time (each region separately analyzed to understand shifting trait space of coral communities) and across space for the most recent sampling years (2016-2023). Additionally, she collected photomosaic data that was not utilized for her thesis work, so she will be staying on with the lab as a research associate, where she will continue to process photomosaics and analyze the benthic community from these plots over all time points.</p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/vale.jpg" alt="Valentina Bautista, M.S." class="member-image">
+      </div>
+  </div>
+  
+</div>  
 ```

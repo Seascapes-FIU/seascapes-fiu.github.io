@@ -5,114 +5,150 @@ format:
     css: styles.css
     body-attr: "class=news"
 ---
-
 <div class="centered-content">
-
-# August 12, 2024
-
-## *Hannah-Marie Lamle is selected as a Florida SeaGrant Graduate Student Coastal Ocean Fellowship Receipent!*
-
-Hannah-Marie was awarded \$25,000 in order to fund her research proposal, "Show me your colors: Using hyperspectral analysis to quantify coral health." This research will assist her dissertation work, as she conducts field studies via photogrammetric monitoring on Miami's reef tract and collects coral tissue for physiological trait processing.
-
 ```{=html}
-<div class="image-container">
-    <img src="images/HM_seagrant.jpg" alt="Hannah-Marie Lamle" height="300" id="BEM1"/>
-    <img src="images/florida_seagrant.jpg" alt="Florida SeaGrant" height="300" id="BEM1"/>
-</div>
-```
-# June 17 - 21, 2024
+<div class="centered-content">
+<div class="news-header">
+      <div class="news-date">December 9 - 13, 2024</div>
+      <div class="news-title"><i>The Coral Team presents at the 2024 Reef Futures Conference</i></div>
+  </div>
+  <p>Coral team members Nico Rivas, Valentina Bautista, and Hannah-Marie Lamle presented on their graduate studies at the <a href="https://www.reeffutures.com/">Reef Futures Conference</a>, accompanied by Dr. Santos. Nico had a 5 minute lightning talk presentation, while Valentina and Hannah-Marie got to discuss their research in the poster session. This conference was a great experience for our team to discuss our research to a wider audience of managers and restoration practitioners. The team spent down time networking and catching up with old friends, as well as make new ones. This conference provided hope and encouragement for us working in the often difficult field of coral restoration.</p>
+  <p>Funding for this conference was acquired by the Puerto Rico SeaGrant program, <a href="https://crestcache.fiu.edu/index.html">FIU CREST Center for Aquatic Chemistry and Environment</a>, and the <a href="https://dasa.fiu.edu/all-departments/student-government-association/committees/graduate-professional-student-committee/">FIU Graduate & Professional Student Committee</a>. We are very grateful for the awards provided from these organizations to be able to travel and attend the conference. </p>
+  <p>- Nico Rivas: <b>"Will weedy coral species take over Caribbean reefs? Population dynamics of <i>Porites astreoides</i> under different environmental conditions</b></p>
+  <p>- Valentina Bautista: <b>"Assessing Functional Trait Dynamics of Caribbean Scleractinia Communities in Puerto Rico's Northeast Marine Corridor"</b>
+  <p>- Hannah-Marie Lamle: <b>"Show me your colors: Using spectroscopy to quantify coral health"</b></p>
+  <div class="image-container">
+    <img src="images/nico_RF.jpg" height="300" id="BEM1"/>
+    <img src="images/vale_RF.jpg" height="300" id="BEM1"/>
+    <img src="images/HM_RF.jpg" height="300" id="BEM1"/>
+    <img src="images/group_RF.jpg" height="300" id="BEM1"/>
+  </div>
 
-## *Members of the SELab present at the 2024 World Seagrass Conference & 15th International Seagrass Biology Workshop!*
 
-Our Seagrass-oriented lab members traveled across the pond to Napoli, Italy to present ongoing research at ISBW 2024! This conference was a great honor, we are happy to have such great representation from the SELab as well as our sister lab, the Coastal Fish Ecology & Fisheries Lab. We heard great talks from our lab members, including:  
+<div class="news-header">
+      <div class="news-date">December 11, 2024</div>
+      <div class="news-title"><i>Gina Badlowski is a recipient of the 2024-2025 Cristina Menendez Fellowship Award</i></div>
+  </div>
+  <p style="margin-bottom: 100px;">Gina Badlowski is on fire this semester with funding, recieving another $5000 from the <a href="https://environment.fiu.edu/get-involved/cristina-menendez-fellowship/"> Cristina Menendez Memorial Fellow Fellowship</a> to support her dissertation work! This fellowship is awarded to FIU graduate students conducting research in the everglades. Gina's proposal for this award was <b>"Exploring Pink Shrimp Contributions to Trophic Networks in the Greater Everglades."</b> Congratulations again Gina, for this well deserved award!
 
--   Gina Badlowski: "Mesoconsumer trophic linkages across reef-seagrass seascapes within Sanctuary Preservation Areas in the Florida Keys"
--   Marianna Coppola: "Addressing seagrass seascape multiscale responses to water quality in a subtropical estuarine lagoon"
--   Dr. James: "Hypervolume modelling: a multivariate tool for seagrass ecosystem assessments"
--   Dr. Rodemann: "Development of an upscaled submerged aquatic vegetation leaf cover model for long-term time series analysis in Florida Bay"
--   Dr. Rehage: "Identifying critical thresholds and effects of land-based pollution from nutrients and pharmaceuticals on seagrass habitats and fauna"
 
-Great job to all presenters, we are happy to have your representation at such a prestigious conference internationally! 
+<div class="news-header">
+      <div class="news-date">November 8, 2024</div>
+      <div class="news-title"><i>Now introducing: Valentina Bautista, M.S.!</i></div>
+  </div>
+  <p>The Santos Seascpae Ecology Lab has another graduate student alumni!! Congratulations to Valentina Bautista for passing her masters thesis defense, titled <b>"Using a trait approach to assess the temporal stability of coral ecosystem function across the Puerto Rican archipelago."</b> Valentina will be working in the coming months to submit chapters of her Masters thesis to scientific journals, as well as data collected that wasn't involved with her thesis. Valentina will be staying on as a research associate in the lab for the next months, assisting with other research projects and publishing her work.</p>
+  
+  <img src="images/vale_defense.jpg" alt="Valentina Bautista and the lab after her defense" id="news" height="500"/></p>
 
-<img src="images/ISBW.png" alt="ISBW 2024 Logo" id="news" height="300"/>
 
-# May 6 - 12, 2024
+<div class="news-header">
+      <div class="news-date">September 27, 2024</div>
+      <div class="news-title"><i>Gina Badlowski awarded ForEverglades Research Enhancement Grant!</i></div>
+  </div>
+  <p style="margin-bottom: 100px;"> Congraduations to Gina Badlowski, Ph.D. candidate in the lab, for being awarded $30,000 from the <a href="https://www.evergladesfoundation.org">Everglades Foundation</a> to support a chapter of her Ph.D. dissertation! Her proposal was titled <b>"Exploring Pink Shrimp Contributions to Trophic Networks in the Greater Everglades."</b> We are very excited to see the great work that Gina will accomplish with this fellowship. To see the official posting, please click <a href="https://www.evergladesfoundation.org/post/creating-solutions-for-a-sustainable-world-the-everglades-foundation-announces-foreverglades-resea">here.</a></p>
 
-## *Marianna Coppola partners with SeaKeepers for Middle Keys Expedition*
 
-In an effort to continue ground truthing for the FISHSCAPE project, Marianna Coppola partnered with the [International Seakeepers Society](https://www.seakeepers.org/about-us/our-missions/) to be matched with yacht owners wanting to help scientists get out in the field. She completed valuable work for her remote sensing project affiliated with FISHSCAPE, many thanks to Captain and crew aboard the DISCOVER Yacht Amelia Dawn II!
 
-```{=html}
-<div class="image-container">
+  <div class="news-header">
+      <div class="news-date">August 12, 2024</div>
+      <div class="news-title"><i>Hannah-Marie Lamle is selected as a Florida SeaGrant Graduate Student Coastal Ocean Fellowship Recipient!</i></div>
+  </div>
+  <p>Hannah-Marie was awarded $25,000 in order to fund her research proposal, "Show me your colors: Using hyperspectral analysis to quantify coral health." This research will assist her dissertation work, as she conducts field studies via traditional red-green-blue as well as hyperspectral photogrammetric monitoring on Miami's reef tract and collects coral tissue for physiological trait processing. You can see the official posting on the SeaGrant website and learn more about Hannah-Marie's work here: <a href="https://www.flseagrant.org/meet-the-2024-graduate-research-fellows/">Florida SeaGrant Announcement. </a> </p>
+  <div class="image-container">
+      <img src="images/HM_seagrant.jpg" alt="Hannah-Marie Lamle" height="300" id="BEM1"/>
+      <img src="images/florida_seagrant.jpg" alt="Florida SeaGrant" height="300" id="BEM1"/>
+  </div>
+
+<div class="news-header">
+      <div class="news-date">June 17 - 21, 2024</div>
+      <div class="news-title"><i>Members of the SELab present at the 2024 World Seagrass Conference & 15th International Seagrass Biology Workshop!</i></div>
+  </div>
+  <p>Our Seagrass-oriented lab members traveled across the pond to Napoli, Italy to present ongoing research at ISBW 2024! This conference was a great honor, we are happy to have such great representation from the SELab as well as our sister lab, the Coastal Fish Ecology & Fisheries Lab. We heard great talks from our lab members, including:</p>
+
+<p>- Gina Badlowski: <b>"Mesoconsumer trophic linkages across reef-seagrass seascapes within Sanctuary Preservation Areas in the Florida Keys"</b></p>
+<p>- Marianna Coppola: <b>"Addressing seagrass seascape multiscale responses to water quality in a subtropical estuarine lagoon"</b></p>
+<p>- Dr. James: <b>"Hypervolume modelling: a multivariate tool for seagrass ecosystem assessments"</b></p>
+<p>- Dr. Rodemann: <b>"Development of an upscaled submerged aquatic vegetation leaf cover model for long-term time series analysis in Florida Bay"</b></p>
+<p>- Dr. Rehage: <b>"Identifying critical thresholds and effects of land-based pollution from nutrients and pharmaceuticals on seagrass habitats and fauna"</b></p>
+
+<p>Great job to all presenters, we are happy to have your representation at such a prestigious conference internationally! </p>
+
+<img src="images/ISBW.png" alt="ISBW 2024 Logo" id="news" height="300"/></p>
+
+<div class="news-header">
+      <div class="news-date">May 6 - 12, 2024</div>
+      <div class="news-title"><i>Marianna Coppola partners with SeaKeepers for Middle Keys Expedition</i></div>
+  </div>
+  <p>In an effort to continue ground truthing for the FISHSCAPE project, Marianna Coppola partnered with the <a href="https://www.seakeepers.org/about-us/our-missions">International Seakeepers Society</a> to be matched with yacht owners wanting to help scientists get out in the field. She completed valuable work for her remote sensing project affiliated with FISHSCAPE, many thanks to the Captain and crew aboard the DISCOVER Yacht Amelia Dawn II!</p>
+  <div class="image-container">
     <img src="images/seakeepers2.jpg" height="300" id="BEM1"/>
     <img src="images/seakeepers1.jpg" height="300" id="BEM1"/>
     <img src="images/seakeepers3.jpg" height="300" id="BEM1"/>
-</div>
-```
-# May 2, 2024
+  </div>
 
-## *Gina Badlowski wins FCE LTER Best Student Poster Award!*
+<div class="news-header">
+      <div class="news-date">May 2, 2024</div>
+      <div class="news-title"><i>Gina Badlowski wins FCE LTER Best Student Poster Award!</i></div>
+  </div>
+  <p>Please help us in congratulating Gina on her wonderful accomplishment of winning the FCE LTER all scientists meeting "Best Student Poster" award! We are proud of her dedication to her work and showcasing her research at the conference.</p>
 
-Please help us in congratulating Gina on her wonderful accomplishment of winning the FCE LTER all scientists meeting "Best Student Poster" award! We are proud of her dedication to her work and showcasing her research at the conference.
 
-# April 14, 2024
-
-## *Valentina Bautista and Nico Rivas win Benthic Ecology Meeting scholarships!*
-
-The 2024 Benthic Ecology Meeting sponsored Valentina Bautista and Nico Rivas for their talks, including lodging and a transportation stipend. We are honored that two of our lab's members were selected for this award.
-
-```{=html}
-<div class="image-container">
+  <div class="news-header">        
+    <div class="news-date">April 14, 2024</div>
+    <div class="news-title"><i>Valentina Bautista and Nico Rivas win Benthic Ecology Meeting scholarships!</i></div>
+   </div>
+   <p>The 2024 Benthic Ecology Meeting sponsored Valentina Bautista and Nico Rivas for their talks, including lodging and a transportation stipend. We are honored that two of our lab's members were selected for this award.</p>
+  <div class="image-container">
     <img src="images/val_BEM.jpg" alt="Valentina Bautista presenting at BEM 2024" height="300" id="BEM1"/>
     <img src="images/nico_BEM.jpg" alt="Nico Rivas presenting at BEM 2024" height="300" id="BEM1"/>
-</div>
-```
-# April 4, 2024
+  </div>
 
-## *Nico Rivas moves on to PhD Candicacy, successfully defends proposal*
-
-A congratulations are in order for Nico Rivas, who successfully defended his project proposal, titled "Assessing the Dynamic State of Caribbean Coral Reefs: The Influence of Seascape Properties, Macroalgae and Herbivory on Coral Population Growth and Community Assembly." Now, Nico is a PhD candidate and will spend the rest of his graduate career focused on analyzing data and writing his dissertation. Well done, Nico, for a great defense and passing this grad school milestone! 
-
-<img src="images/Nico_Proposal_Defense.jpg" alt="Nico Rivas with prop Barracuda during proposal defense" id="news" height="500"/>
-
-# March 13, 2024
-
-## *Members of the SELab help with Family Science Night Outreach Event supporting FISHSCAPE research*
-
-Team Seascape took over team FISHSCAPE for an outreach event at Citrus Grove K-8 two weeks ago! Lab members Hannah-Marie, Gina, and Nico spent a night teaching k-8 students and parents about some of the science the lab (and collaborators) do for an ongoing project down in the Florida Keys:
-
-Fish In Seagrass Habitats: Seascape Connectivity Across Protected Areas
-
-Students had a blast learning how to measure a Great Barracuda, one of the main study species! Students also got to learn about stable isotopes: how to process samples using sweet tarts and fruit roll ups, drop their sample into an analyzer, and finally obtaining their results that determined their resource contributions! As a special bonus, they got to eat their sweet sample! What a blast it was to do educational outreach and we look forward to future events to share our science with others!
-
-```{=html}
-<div class="image-container">
+<div class="news-header">
+      <div class="news-date">April 4, 2024</div>
+      <div class="news-title"><i>Nico Rivas moves on to PhD Candicacy, successfully defends proposal</i></div>
+  </div>
+  <p>A congratulations are in order for Nico Rivas, who successfully defended his project proposal, titled <b>"Assessing the Dynamic State of Caribbean Coral Reefs: The Influence of Seascape Properties, Macroalgae and Herbivory on Coral Population Growth and Community Assembly."</b> Now, Nico is a PhD candidate and will spend the rest of his graduate career focused on analyzing data and writing his dissertation. Well done, Nico, for a great defense and passing this grad school milestone! <img src="images/Nico_Proposal_Defense.jpg" alt="Nico Rivas with prop Barracuda during proposal defense" id="news" height="500"/></p>
+  
+  
+  <div class="news-header">
+      <div class="news-date">March 13, 2024</div>
+      <div class="news-title"><i>Members of the SELab help with Family Science Night Outreach Event supporting FISHSCAPE research</i></div>
+  </div>
+  <p>Team Seascape took over team FISHSCAPE for an outreach event at Citrus Grove K-8 two weeks ago! Lab members Hannah-Marie, Gina, and Nico spent a night teaching k-8 students and parents about some of the science the lab (and collaborators) do for an ongoing project down in the Florida Keys: <b>Fish In Seagrass Habitats: Seascape Connectivity Across Protected Areas</b></p>
+  <p>Students had a blast learning how to measure a Great Barracuda, one of the main study species! Students also got to learn about stable isotopes: how to process samples using sweet tarts and fruit roll ups, drop their sample into an analyzer, and finally obtaining their results that determined their resource contributions! As a special bonus, they got to eat their sweet sample! What a blast it was to do educational outreach and we look forward to future events to share our science with others!</p>
+  <div class="image-container">
     <img src="images/outreach1.heic" height="300" id="BEM1"/>
     <img src="images/outreach2.heic" height="300" id="BEM1"/>
     <img src="images/outreach3.heic" height="300" id="BEM1"/>
+  </div>
+  
+  
+  <div class="news-header">
+      <div class="news-date">December 14, 2023</div>
+      <div class="news-title"><i>Nico Rivas and Gina Badlowski win FIU IOE Coastlines and Oceans Division Research Award!</i></div>
+  </div>
+  <p style="margin-bottom: 100px;">Graduate students Gina and Nico, in the SELab were awarded $1000 each towards their respective graduate research from the FIU Institute of Environment <a href="https://environment.fiu.edu/get-involved/coastlines-and-oceans-research-award/#:~:text=The%20Coastlines%20and%20Oceans%20Division,research%20at%20conferences%20and%20meetings.">Coastlines and Oceans Division Research Award.</a> This award will help them with purchasing the necessary supplies for laboratory processing and presentation of research at a scientific conference. Congratulations Nico and Gina!</p>
+  
+  
+  
+  <div class="news-header">
+      <div class="news-date">November 12 - 16, 2023</div>
+      <div class="news-title"><i>Members of the lab present at the Coastal & Estuarine Research Federation Conference in Portland, Oregon</i></div>
+  </div>
+  <p>The Santos Seascape Ecology Lab showed up in full force to <a href="https://conference.cerf.science/">CERF 2023</a> located in Portland, Oregon. The folowwing lab members gave presentations at the conference:</p>
+  <p>- Dr. Santos: <b>"Influence of ecosystem state and habitat complexity on trophic dynamics"</b></p>
+  <p>- Dr. James: <b>"Spatiotemporal patterns of seagrass seascape state and stability in South Florida"</b></p>
+  <p>- Gina Badlowski: <b>"A multi-level approach to assessing nektonic biodiversity and community structure of seagrass seascapes"</b></p>
+  <p>- Marianna Coppola: <b>"Mapping spatiotemporal changes in seagrass seascapes in South Florida"</b></p>
+  <p>Well done to all, and way to represent the SELab well!</p> <img src="images/CERF_2023.heic" alt="Lab Members at CERF 2023" id="news" height="500"/></p>
+  
+  
+  
+  <div class="news-header">
+      <div class="news-date">November 11, 2023</div>
+      <div class="news-title"><i>Now presenting Lauren Kabat, M.S.!</i></div>
+  </div>
+  <p>The Santos Seascpae Ecology Lab has its first graduate student alumni!! Congratulations to Lauren Kabat for passing her masters thesis defense, titled <b>"The Impact of Drought on Freshwater Shrimp Movement in Puerto Rican Headwater Streams."</b> Lauren will be working in the coming months to submit chapters of her Masters thesis to scientific journals. We wish her all the best of luck in her future endeavours, and will miss her presence in the lab greatly!</p>
+ <img src="images/Lauren_Defense.jpg" alt="Lauren with the Lab after her Thesis Defense" id="news" height="500"/>
 </div>
 ```
-# December 14, 2023
-
-## *Nico Rivas and Gina Badlowski win FIU IOE Coastlines and Oceans Division Research Award!*
-
-Graduate students Gina and Nico, in the SELab were award \$1000 towards their respective graduate research from the FIU Institute of Environment [Coastlines and Oceans Division Research Award](https://environment.fiu.edu/get-involved/coastlines-and-oceans-research-award/#:~:text=The%20Coastlines%20and%20Oceans%20Division,research%20at%20conferences%20and%20meetings.). This award will help them with purchasing the necessary supplies for laboratory processing and presentation of research at a scientific conference. Congratulations Nico and Gina!
-
-# November 12 - 16, 2023
-
-## *Members of the lab present at the Coastal & Estuarine Research Federation Conference in Portland, Oregon*
-
-The Santos Seascape Ecology Lab showed up in full force to [CERF 2023](https://conference.cerf.science/) located in Portland, Oregon. The folowwing lab members gave presentations at the conference:
-
--   Dr. Santos: "Influence of ecosystem state and habitat complexity on trophic dynamics"
--   Dr. James: "Spatiotemporal patterns of seagrass seascape state and stability in South Florida"
--   Gina Badlowski: "A multi-level approach to assessing nektonic biodiversity and community structure of seagrass seascapes"
--   Marianna Coppola: "Mapping spatiotemporal changes in seagrass seascapes in South Florida"
-
-Well done to all, and way to represent the SELab well! <img src="images/CERF_2023.heic" alt="Lab Members at CERF 2023" id="news" height="500"/>
-
-# November 11, 2023
-
-## *Now presenting Lauren Kabat, MS!*
-
-The Santos Seascpae Ecology Lab has its first graduate student alumni!! Congratulations to Lauren Kabat for passing her masters thesis defense, titled "The Impact of Drought on Freshwater Shrimp Movement in Puerto Rican Headwater Streams." Lauren will be working in the coming months to submit chapters of her Masters thesis to scientific journals. We wish her all the best of luck in her future endeavours, and will miss her presence in the lab greatly! <img src="images/Lauren_Defense.jpg" alt="Lauren with the Lab after her Thesis Defense" id="news" height="500"/>

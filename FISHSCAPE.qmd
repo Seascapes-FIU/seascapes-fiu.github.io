@@ -37,7 +37,7 @@ format:
 
 <div class="centered-content">
     <div class="centered-text">
-    <p>This project is funded by the following sponsors:</p>
+    <p style="margin-bottom: -80px;">This project is funded by the following sponsors:</p>
     </div>
 <img src="images/SFC_CESU_logo.png" height="150" id="fishscape-funding1"/>
 <img src="images/nccos_logofile.jpg" height="150" id="fishscape-funding1"/>

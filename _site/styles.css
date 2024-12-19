@@ -209,6 +209,31 @@ float: left;
   font-size: 3em;
 }
 
+#BB1  {
+  float: right;    
+  margin: 0 0 0 15px;
+}
+
+#BB2  {
+  float: left;    
+  margin: 0 15px 0 0;
+}
+
+#BB3  {
+  float: left;    
+  margin: 0 15px 0 0;
+}
+
+#BB4  {
+  float: right;    
+  margin: 0 0 0 15px;
+}
+
+#BBfunding {
+ display: block;
+ margin: 0 auto 25px auto;
+ max-width: 100%;
+}
 
 /*--------------------------------------------------------------------------*/
 /* El Yunque Page */
@@ -376,7 +401,7 @@ float: right;
 /* Rolo's Page */ 
 
 .centered-content-rolo {
-  font-size: 20px;
+  font-size: 22px;
   margin: 15%;
   margin-top: 100px;
   margin-bottom: 25px;
@@ -451,13 +476,40 @@ float: left;
 .image-container img {
     max-width: 35%;              /* Adjust the width of each image */
     height: auto;                /* Maintain the aspect ratio of the images */
+    margin-bottom: 100px;
 }
 
 #news {
   display: block;
  margin: 0 auto;
  max-width: 100%;
+ margin-bottom: 100px;
 }
+
+.news-header {
+    background-color: #f0f8ff; /* Light blue for a clean look */
+    padding: 10px 15px;
+    border-radius: 5px; /* Rounded corners */
+    margin-bottom: 15px; /* Space between articles */
+    border: 1px solid #dce7f3; /* Subtle border for definition */
+    font-family: Arial, sans-serif;
+}
+
+.news-date {
+    font-weight: bold;
+    color: #004080; /* Darker blue for contrast */
+    text-align: center;
+}
+
+.news-title {
+    font-size: 1.25rem; /* Larger font for titles */
+    font-weight: bold;
+    color: #00274d;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
 
 
 /*--------------------------------------------------------------------------*/
