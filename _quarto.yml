@@ -22,13 +22,15 @@ website:
           - our_lab.qmd
           - lab_alumni.qmd
       - news.qmd
-      - publications.qmd
+      - publications_ginaedit.qmd
       - text: "Opportunities in our Lab"
         href: prospective_students.qmd
       - contact_us.qmd
     tools:
       - icon: instagram
         href: https://www.instagram.com/santos_seascape_ecology/
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61565412987547
       - icon: github
         href: https://github.com/CoastalFishScience
     toggle-position: right

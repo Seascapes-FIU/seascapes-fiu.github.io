@@ -15,6 +15,7 @@ format:
               <h4><em>Postdoctoral Scholar</em></h4>
               <p>Ryan is an interdisciplinary scientist interested in understanding the drivers of ecosystems at multiple scales. He has developed expert knowledge of Gulf coast estuarine ecosystems, receiving his B.S. in Biology at the University of Alabama and M.S. at the University of Alabama Birmingham. He went on to complete his Ph.D. at the University of Lafayette, titled "A Seascape Approach to Understanding Coastal Food Web Dynamics and Species Distributions" under advisor <a href="https://biology.louisiana.edu/James-Nelson">Dr. James Nelson</a>, who is also a collaborator with the lab. His research takes an integrative approach asking questions across multiple scales to understand the response of biodiversity, fisheries, and ecosystem function to spatial variability in biotic and abiotic factors and future change to inform effective conservation strategies.</p>
               <p>email: <a href="mailto:wjames@fiu.edu">wjames@fiu.edu</a></p>
+              <p><a href="https://wryanjames.github.io/">Website Link</a></p>
           </div>
       </div>
       <div class="side-column">
@@ -46,6 +47,7 @@ format:
               <h4><em>Ph.D. Candidate</em></h4>
               <p>Nico is an ecologist from Chile with an M.S. in Marine Biology and Ecology, currently working on his doctorate’s degree in the Santos Seascape Ecology Lab. Nico completed his undergraduate degree at the University of Central Florida where he graduated with a bachelor’s degree in biology. He then completed a master’s degree at the University of Miami’s Rosenstiel School of Marine, Atmospheric, and Earth Science with a concentration in coral restoration, under the guidance of <a href="https://people.miami.edu/profile/9f69291a85396981d4ccc07b8003f6f2">Dr. Diego Lirman</a>. His M.S. focused on protecting coral outplants from corallivorous fish. Now, he works on reefs in Culebra, Puerto Rico and is involved in restoration and monitoring projects that use novel techniques like 3D printing and photogrammetry to assess coral reef states.</p>
               <p>email: <a href="mailto:nirivas@fiu.edu">nirivas@fiu.edu</a></p>
+              <p><a href="https://nico-rivas.com/">Website Link</a></p>
           </div>
       </div>
       <div class="side-column">
