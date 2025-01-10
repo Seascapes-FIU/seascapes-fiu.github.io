@@ -1,0 +1,76 @@
+/* FIU BBC Background */
+.hero-image {
+    background-image: url("images/home-background2.jpg");
+    background-size: cover;
+    background-position: bottom;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray; /* Text color on top of the image */
+    text-align: center;
+    position: relative;
+    margin-top: 0;
+}
+
+
+/* middle section of text */
+.centered-text {
+    text-align: center; /* Centers the text horizontally */
+    margin: 100px; /* Adds 2 inches of margin on the left and right sides */
+    padding-top: 0px; /* Adds some space above the text, adjust as needed */
+    padding-bottom: 0px; /* Adds some space below the text, adjust as needed */
+    font-size: 1.5em;
+}
+
+/* Second image of Luquillo */
+.hero-image2 {
+    background-image: url("images/luquillo2.jpg");
+    background-size: cover;
+    background-position: top;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Text color on top of the image */
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.intro-text-2 {
+    font-size: 1.5em;
+    z-index: 1; /* Ensure text is above the background image */
+    position: absolute; /* Allows positioning within the parent container */
+    top: 200px; /* Adjust the top position as needed */
+    left: 20px; /* Adjust the left position as needed */
+    background-color: rgba(162, 190, 235, 0.75); /* Background color of the text block with 50% opacity */
+    color: white; /* Text color inside the block */
+    padding: 5px; /* Padding inside the text block */
+    border-radius: 8px; /* Optional: rounded corners for the block */
+    max-width: 40%; /* Optional: restrict the width of the text block */
+    text-align: left;
+    
+     
+}
+
+
+body {
+  padding-top: 0px !important;
+}
+
+main {
+    margin-bottom: 0em;
+    /* margin-bottom: 1em; */
+}
+
+/* Adjust or comment out the problematic property */
+.page-rows-contents {
+    /* Uncomment this line if you want to apply a specific grid layout */
+    /* grid-template-rows: [content-top] minmax(max-content, 1fr) [content-bottom] minmax(60px, max-content) [page-bottom]; */
+    
+    /* Or, you can reset it to default or set an alternative layout */
+    grid-template-rows: auto; /* or another suitable value */
+}
+
