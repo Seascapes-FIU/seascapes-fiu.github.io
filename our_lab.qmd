@@ -8,11 +8,10 @@ format:
 ```{=html}
 <div class="centered-content">
   <div class="member-container reversed">
-      <!-- Second member -->
       <div class="main-column">
           <div class="member-info">
               <h2>Dr. W. Ryan James</h2>
-              <h4><em>Postdoctoral Scholar</em></h4>
+              <h4><em>Research Assistant Professor</em></h4>
               <p>Ryan is an interdisciplinary scientist interested in understanding the drivers of ecosystems at multiple scales. He has developed expert knowledge of Gulf coast estuarine ecosystems, receiving his B.S. in Biology at the University of Alabama and M.S. at the University of Alabama Birmingham. He went on to complete his Ph.D. at the University of Lafayette, titled "A Seascape Approach to Understanding Coastal Food Web Dynamics and Species Distributions" under advisor <a href="https://biology.louisiana.edu/James-Nelson">Dr. James Nelson</a>, who is also a collaborator with the lab. His research takes an integrative approach asking questions across multiple scales to understand the response of biodiversity, fisheries, and ecosystem function to spatial variability in biotic and abiotic factors and future change to inform effective conservation strategies.</p>
               <p>email: <a href="mailto:wjames@fiu.edu">wjames@fiu.edu</a></p>
               <p><a href="https://wryanjames.github.io/">Website Link</a></p>
@@ -23,8 +22,22 @@ format:
       </div>
   </div>
 
+<div class="member-container">
+      <div class="main-column">
+          <div class="member-info">
+              <h2>Dr. Justin Lesser</h2>
+              <h4><em>Postdoctoral Scholar</em></h4>
+              <p>Justin is a food web ecologist interested in cross-habitat, consumer-mediated flows of energy that couple ecosystems across space and time, as well as the general principles and rules that structure food webs across systems. He received a B.S. in Neuroscience and a B.A. in Biology from Brandeis University, and an M.S. in Marine Biology from Northeastern University, through the Three Seas Program. Justin then completed his Ph.D. at the University of Louisiana at Lafayette with <a href="https://biology.louisiana.edu/James-Nelson">Dr. James Nelson</a>, where he was a member of the <a href ="https://pie-lter.mbl.edu/">Plum Island Ecosystems LTER</a>. Immediately prior to joining the lab, Justin was a Postdoctoral Researcher at the <a href="https://www.uvm.edu/rsenr/rubensteinlab">Rubenstein Ecosystem Science Laboratory</a> at the University of Vermont, as well as the VT-USGS Fish and Wildlife Research Co-op Unit, where he worked on whole-lake food web models, the impacts of invasive and understudied species on lake food web structure and function, and the environmental drivers of fish communities in freshwater wetlands and streams. Justin’s current work focuses on the ecological drivers and impacts of restoration on Everglades fish communities, the impact of invasive species on consumer diet and energy flow across linked South Florida ecosystems, and the food web connectivity between mountain headwater, freshwater, and estuarine domains of tropical rivers in Puerto Rico.</p>
+              <p>email: <a href="mailto:jlesser@fiu.edu">jlesser@fiu.edu</a></p>
+              <p><a href="https://scholar.google.com/citations?hl=en&user=LuVUlFkAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/justin_lesser.jpg" alt="Dr. Justin Lesser" class="member-image">
+      </div>
+  </div>
 
-  <div class="member-container">
+  <div class="member-container reversed">
       <!-- third member -->
       <div class="main-column">
           <div class="member-info">
@@ -39,7 +52,7 @@ format:
       </div>
   </div>
 
-  <div class="member-container reversed">
+  <div class="member-container">
       <!-- Fourth member -->
       <div class="main-column">
           <div class="member-info">
@@ -55,7 +68,7 @@ format:
       </div>
   </div>
 
-  <div class="member-container">
+  <div class="member-container reversed">
       <!-- fifth member -->
       <div class="main-column">
           <div class="member-info">
@@ -71,7 +84,7 @@ format:
       </div>
   </div>
 
-  <div class="member-container reversed">
+  <div class="member-container">
       <!-- Sixth member -->
       <div class="main-column">
           <div class="member-info">
@@ -86,14 +99,15 @@ format:
       </div>
   </div>
 
-  <div class="member-container">
+  <div class="member-container reversed">
       <!-- Seventh member member -->
       <div class="main-column">
           <div class="member-info">
               <h2>Hannah-Marie Lamle</h2>
-              <h4><em>Ph.D. Student</em></h4>
+              <h4><em>Ph.D. Candidate</em></h4>
               <p>Hannah-Marie spent the first two decades of her life in Northern Indiana, spending every day of the summer on the lake catching turtles, ID'ing seaweeds, and also wakeboarding and surfing, where she developed a love for water. She went on to Indiana University for her B.S. in environmental science, and became heavily involved in the <a href="https://underwaterscience.indiana.edu/index.html">Center for Underwater Science.</a> There she specialized in monitoring coral recruitment on shipwreck sites in the Dominican Republic. She spent a year after graduating as a visiting lecturer and research associate, where she taught the open water scuba classes and assisted with monitoring of the critically endangered pillar coral, <i>Dendrogyra cylindrus</i>. She has transitioned to FIU for a Ph.D. in biology and is focusing her dissertation on understanding how environmental gradients alter variation in the coral community trait space. Specifically, she is focused on how select physiological traits converge to create a spectral signature. She hopes to use hyperspectral imaging to detect changes in spectra intensity and relate that back to individual traits, creating a new, noninvasive measure of coral health. </p>
               <p>email: <a href="mailto:hlamle@fiu.edu">hlamle@fiu.edu</a></p>
+              <p><a href="https://hmlamle.github.io/">Website Link</a></p>
           </div>
       </div>
       <div class="side-column">
@@ -101,7 +115,7 @@ format:
       </div>
   </div>
 
-  <div class="member-container reversed">
+  <div class="member-container">
       <!-- Eigth member -->
       <div class="main-column">
           <div class="member-info">
@@ -117,7 +131,7 @@ format:
       </div>
   </div>
 
-  <div class="member-container">
+  <div class="member-container reversed">
       <!-- Ninth member member -->
       <div class="main-column">
           <div class="member-info">
@@ -132,7 +146,7 @@ format:
       </div>
   </div>
 
-  <div class="member-container reversed">
+  <div class="member-container">
       <!-- Tenth member -->
       <div class="main-column">
           <div class="member-info">
@@ -144,22 +158,6 @@ format:
       </div>
       <div class="side-column">
           <img src="images/christine.jpg" alt="Christine Nation" class="member-image">
-      </div>
-  </div>
-
-
-  <div class="member-container">
-      <!-- Eleventh member -->
-      <div class="main-column">
-          <div class="member-info">
-            <h2>Brenden Ramiz</h2>
-              <h4><em>Research Technician</em></h4>
-              <p>Brenden is an ecologist from Ft. Lauderdale Florida, with a bachelor’s degree in environmental sciences from Florida International University.  He volunteered in the Santos lab during his undergraduate and completed an independent study about the population trends of the invasive fish species found in Northern Florida Bay with Dr. Santos.  After graduation he continued to work as a Lab Tech in the Santos Lab. Brenden has been committed to assisting in fieldwork within Biscayne Bay and working on the stable isotopes processing field samples collected from the multiple ongoing projects. His current career goals are to continue working under Dr. Santos as Lab Tech and pursue a graduate degree in niche ecology or ecotoxicology in South Florida. </p>
-              <p>email: <a href="mailto:bramiz@fiu.edu">bramiz@fiu.edu</a></p>
-          </div>
-      </div>
-      <div class="side-column">
-            <img src="images/brenden.jpg" alt="Brenden Ramiz" class="member-image">
       </div>
   </div>
 </div>

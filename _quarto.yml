@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
+  favicon: 'logo images/Santos_Round_Logo_NoBackground.png'
   title: "Santos Seascape Ecology Lab"
-  
   navbar:
     logo: 'logo images/Santos_Round_Logo_NoBackground.png'
     search: false
