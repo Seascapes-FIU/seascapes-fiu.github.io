@@ -1,0 +1,33 @@
+---
+title: "Completed Projects" 
+format: html
+css: styles.css
+page-layout: full
+body-classes: research-landing
+---
+
+
+```{=html}
+
+
+<div class="research-landing">
+
+<h1>Completed Research Projects:</h1>
+  
+<div class="trip-container">
+  <!-- Trip 3 -->
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="Culebra.qmd">
+      <img src="images/culebra_card.jpg" alt="Puerto Rico cover page">
+      <h2>Puerto Rico Seascapes</h2>
+    </a>
+  </div>
+
+
+  <!-- Add more trip cards here -->
+</div>
+
+</div>
+
+```

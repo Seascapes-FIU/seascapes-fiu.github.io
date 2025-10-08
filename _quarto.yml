@@ -11,10 +11,8 @@ website:
     right:
       - text: "Research"
         menu: 
-          - biscayne_bay.qmd
-          - FISHSCAPE.qmd
-          - El_yunque.qmd
-          - Culebra.qmd
+          - current_research.qmd
+          - completed_research.qmd
           - Rehage_Lab.qmd
       - text: "Personnel"
         menu: 

@@ -128,6 +128,99 @@
 
 
 /*--------------------------------------------------------------------------*/
+/* Research landing pages (boxes for research projects) */ 
+
+body.research-landing {
+  background-color:	#b6dcdd;
+}
+
+.research-landing {
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.research-landing h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 30px;
+  color: gray;
+}
+
+/* Grid container for trip cards */
+.trip-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 10px auto;
+  max-width: 1200px;
+  padding: 10px;
+}
+
+/* Individual trip card */
+.trip-card {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  cursor: pointer; /* Make the card feel clickable */
+  width: 100%;
+  /* Remove fixed height approach */
+  height: 300px; /* Let the card height adjust automatically */
+  display: block; /* Ensure it's displayed as a block-level element */
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+.trip-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures image fills the entire card */
+  border-radius: 10px;
+}
+
+/* Hover effect - no movement, just shadow */
+.trip-card:hover {
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Semi-transparent overlay for hover effect */
+.trip-card .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.6); /* Semi-transparent white overlay */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.trip-card:hover .overlay {
+  opacity: 1; /* Show the overlay on hover */
+}
+
+/* Centering the text inside the card */
+.trip-card h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center text vertically and horizontally */
+  margin: 0;
+  padding: 10px 15px; /* Adjust padding for proper space */
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  z-index: 1; /* Ensure the text is above the overlay */
+  box-shadow: none; /* No box-shadow to avoid faint lines */
+  width: calc(100% - 30px); /* Ensures text width stays within card */
+}
+
+
+/*--------------------------------------------------------------------------*/
 /* FISHSCAPE page */ 
 
 .FISHSCAPE-header {
@@ -371,6 +464,116 @@ float: right;
     max-width: 30%; /* Make this image larger */
 }
 
+
+/*--------------------------------------------------------------------------*/
+/* coral spectral Page */
+
+.coral-spectral-header {
+    background-image: url("images/coral_spectral_header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    align-items: flex-start;
+    padding: 60px;
+    color: white; /* Text color on top of the image */
+    text-align: left;
+    position: relative;
+    margin-top: 0;
+}
+
+.coral-spectral-text h1{
+  font-size: 3em;
+}
+
+.coralspectral-intro {
+  text-align: center;
+  margin: 8%;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-size: 1em;
+  padding: 0px;
+}
+
+#CS1 {
+  display: block;         /* makes centering work properly */
+  margin: 20px auto;      /* centers horizontally */
+  max-width: 100%;         /* shrinks with window */
+  height: auto;           /* keeps aspect ratio */
+}
+
+#CS2  {
+  float: right;    
+  margin: 0 0 0 15px;
+  max-width: 35%;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+
+.image-container-cs {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;         /* Center the images vertically (if necessary) */
+    gap: 15px;                   /* Optional: adds space between the images */
+    margin: 15px auto;
+    flex-wrap: wrap;
+}
+
+
+.image-container-cs img {
+    display: block;           /* Ensure images are treated as block-level elements */
+    width: 40%;
+    max-width: 400px;           /* Ensure images don't overflow their container */
+    height: auto;              /* Maintain aspect ratio */
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+/* --- Responsive breakpoint --- */
+@media (max-width: 900px) {
+  .image-container-cs {
+    flex-direction: column;   /* Stack vertically */
+  }
+
+  .image-container-cs img {
+    max-width: 80%;           /* Make images larger on smaller screens */
+    max-width: none;
+  }
+}
+
+
+.image-container-sponsors {
+    display: flex;              /* Enable flexbox layout */
+    justify-content: center;     /* Center the images horizontally */
+    align-items: center;         /* Center the images vertically (if necessary) */
+    gap: 15px;                   /* Optional: adds space between the images */
+    margin: 15px auto;
+    flex-wrap: wrap;
+}
+
+
+.image-container-sponsors img {
+    display: block;           /* Ensure images are treated as block-level elements */
+    width: 40%;
+    max-width: 400px;           /* Ensure images don't overflow their container */
+    height: auto;              /* Maintain aspect ratio */
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+/* --- Responsive breakpoint --- */
+@media (max-width: 900px) {
+  .image-container-sponsors {
+    flex-direction: column;   /* Stack vertically */
+  }
+
+  .image-container-sponsors img {
+    max-width: 80%;           /* Make images larger on smaller screens */
+    max-width: none;
+  }
+}
 
 /*--------------------------------------------------------------------------*/
 /* Coastal Fisheries research page */ 

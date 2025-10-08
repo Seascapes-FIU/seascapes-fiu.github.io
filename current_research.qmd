@@ -1,0 +1,59 @@
+---
+title: "Current Research" 
+format: html
+css: styles.css
+page-layout: full
+body-classes: research-landing
+---
+
+
+```{=html}
+
+
+<div class="research-landing">
+
+<h1> Ongoing Research Projects:</h1>
+
+<div class="trip-container">
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="biscayne_bay.qmd">
+      <img src="images/BB_card.jpg" alt="Biscayne Bay cover page">
+      <h2>Biscayne Bay Seagrass Function</h2>
+    </a>
+  </div>
+
+  
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="coral_spectral.qmd">
+      <img src="images/coral_spectral_card.jpg" alt="Coral Spectral Card">
+      <h2>Coral Spectral Traits</h2>
+    </a>
+  </div>
+  
+    
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="FISHSCAPE.qmd">
+      <img src="images/fishscape_card.jpg" alt="Florida Keys cover page">
+      <h2>FISHSCAPE</h2>
+    </a>
+  </div>
+  
+  
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="El_yunque.qmd">
+      <img src="images/elyunque_header.jpg" alt="El Yunque card">
+      <h2>El Yunque Shrimp Movement</h2>
+    </a>
+  </div>
+
+
+  <!-- Add more trip cards here -->
+</div>
+
+</div>
+
+```
