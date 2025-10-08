@@ -50,6 +50,13 @@ body-classes: research-landing
     </a>
   </div>
 
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="btt_foodwebs.qmd">
+      <img src="images/btt_card.jpg" alt="Florida Keys Flats card">
+      <h2>Florida keys Flats Food Webs</h2>
+    </a>
+  </div>
 
   <!-- Add more trip cards here -->
 </div>

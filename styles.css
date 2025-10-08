@@ -575,6 +575,67 @@ float: right;
   }
 }
 
+
+/*--------------------------------------------------------------------------*/
+/* BTT Food Webs Page */
+
+.btt-header {
+    background-image: url("images/btt_header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh; 
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 20px;
+    color: white; /* Text color on top of the image */
+    text-align: right;
+    position: relative;
+    margin-top: 0;
+}
+
+.btt-text h1{
+  font-size: 3em;
+}
+
+.btt-intro {
+  text-align: center;
+  margin: 8%;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  font-size: 1em;
+  padding: 0px;
+}
+
+#BTT1 {
+  float: left;         /* makes centering work properly */
+  margin: 0 15px 0 0;      /* centers horizontally */
+  max-width: 60%;         /* shrinks with window */
+  height: auto;           /* keeps aspect ratio */
+}
+
+#BTT2  {
+  float: right;    
+  margin: 0 0 0 15px;
+  max-width: 35%;
+  height: auto;
+}
+
+#BTT3  {
+  display: block;         /* makes centering work properly */
+  margin: 20px auto;      /* centers horizontally */
+  max-width: 60%;         /* shrinks with window */
+  height: auto;           /* keeps aspect ratio */
+}
+
+
+#BTT4  {
+  display: block;         /* makes centering work properly */
+  margin: 20px auto;      /* centers horizontally */
+  max-width: 50%;         /* shrinks with window */
+  height: auto;           /* keeps aspect ratio */
+}
+
 /*--------------------------------------------------------------------------*/
 /* Coastal Fisheries research page */ 
 

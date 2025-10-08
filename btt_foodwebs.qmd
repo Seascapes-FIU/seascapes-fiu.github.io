@@ -1,0 +1,41 @@
+---
+title: "Florida Keys Flats Food Webs"
+format:
+  html:
+    css: styles.css
+---
+
+
+```{=html}
+<div class="btt-header">
+    <div class="btt-text">
+        <h1><i>Food Web Ecology of Florida Keys Flats</i></h1>
+    </div>
+</div>
+
+<div class ="centered-content">
+<h2>Holistic assessment of the Florida Keys flats food webs</h2>
+  <div class="btt-intro">
+    </div>
+  <h4>Project Overview: (Spearheaded by <a href="our_lab.qmd#dr-w-ryan-james">Dr. W. Ryan James</a>)</h4>
+  <img src="images/btt_map.png" alt="Project Study Sites" id="BTT1"/>
+  <p>The Florida Keys flats provide essential habitat for a variety of recreationally important fish species, including bonefish and permit, yet recent observations indicate declines in fishing quality and shifts in fish behavior. This project aims to understand how seagrass and shallow flats support prey communities and how those prey influence the diet and resource use of key flats species. Over three years, we will assess spatial and temporal variation in prey abundance, biomass, and diversity across Biscayne Bay and the Florida Keys. We will collect fin clips and DNA swabs from bonefish and permit to determine their diet using stable isotope and DNA metabarcoding analyses. Prey communities will be sampled using standardized throw traps along seagrass flats to quantify abundance, biomass, and diversity. Habitat characteristics, including seagrass cover, fragmentation, and seascape configuration, will be mapped and analyzed to understand drivers of prey distribution. Historical data will be used to evaluate long-term shifts in prey communities. Collaboration with fishing guides will ensure regionally representative sampling and facilitate outreach. This integrated approach links habitat, prey availability, and fish diet to support effective fisheries management. Findings will inform conservation strategies that sustain both recreational fisheries and the ecological health of the flats.</p>
+  
+  <h4>Goals and Objectives:</h4>
+  <img src="images/btt_alia.jpg" alt="Throw Trapping in Action" id="BTT2"/>
+  <p>The overarching goal is to investigate the connections between seagrass flats, prey production, and the feeding ecology of recreational flats fish. Specific objectives are: 1) determine spatial variation in diet and resource use of bonefish and permit, 2) quantify spatiotemporal patterns in prey abundance, biomass, and diversity, and 3) assess how habitat composition and seascape configuration influence prey communities. This knowledge will help identify areas of high ecological value and inform fisheries management decisions. Outcomes will support the sustainability of recreational fisheries and enhance conservation planning. The project also aims to integrate historical data to detect long-term trends in flats food webs.</p>
+  
+  <h4>Methods:</h4>
+  <p>We will collect fin clips and DNA swabs from 100 individuals each of bonefish and permit per year across five regions for stable isotope and DNA metabarcoding analyses. Prey communities will be sampled at 12 sites using throw traps along seagrass transects during multiple seasons to capture temporal variation. Primary producers and abundant prey species will be collected for stable isotope analysis to assess resource use. Habitat composition and configuration will be mapped using high-resolution satellite imagery and ground truthing, and seascape metrics will be calculated to relate habitat features to prey communities. Data will be analyzed using univariate and multivariate approaches to determine how spatial and temporal patterns in prey and habitat influence flats fish diet and resource use.</p>
+  
+<img src="images/btt_collection.png" alt="BTT Collection and Processing of Samples" id="BTT3"/>
+
+  <div class="centered-text">
+    <p style="margin-bottom: -80px;">These projects are funded by the following sponsors:</p>
+  </div>
+  
+  <img src="images/btt-logo.jpg" alt="Bonefish and Tarpon Trust" id="BTT4"/>
+
+
+</div>
+```
