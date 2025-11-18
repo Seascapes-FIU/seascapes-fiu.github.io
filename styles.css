@@ -794,12 +794,11 @@ float: left;
 
 #opp1 {
   float: left;
-  margin: 0 15px 50px 0;
+  margin: 0 15px 0 0;
 }
 
 .centered-content-opplast {
   margin: 15%;
-  margin-top: 150px;
   margin-bottom: 25px;
   clear: both;
 }
