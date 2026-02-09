@@ -8,6 +8,39 @@ format:
 <div class="centered-content">
 ```{=html}
 <div class="centered-content">
+
+<div class="news-header">
+      <div class="news-date">Feburary 9, 2026</div>
+      <div class="news-title"><i>PhD Candidate Nicolas Rivas publishes his first dissertation chapter</i></div>
+  </div>
+  <p>Soon-to-be Dr. Nicolas Rivas received great news today from the journal Coral Reefs, as his first dissertation chapter has been published. Congratulations, Nico, we are proud of your hard work! You can read the article, titled <b>Tipping the balance: reef community shifts after a regional urchin population collapse</b>. You can access the article link <a href="https://link.springer.com/article/10.1007/s00338-026-02822-1">here!</a></p>
+
+<div class="news-header">
+      <div class="news-date">September 9, 2025</div>
+      <div class="news-title"><i>Dr. Santos gives his tenure talk!</i></div>
+  </div>
+  <p>The PI For our lab, Dr. Rolando Santos, gave his tenure talk today, titled <b>Integrating seascape trophic and movement ecology to assess coastal communities responses in a changing world</b>. This is a huge academic milestone, and Dr. Santos gave a great talk. Congratulations, and we look forward to seeing Dr. Santos move up the academic ladder.</p>
+  <div class="image-container">
+    <img src="images/rolo_tenuretalk.jpg" width="500"/>
+  </div>
+
+
+<div class="news-header">
+      <div class="news-date">September 9, 2025</div>
+      <div class="news-title"><i>Gina Badlowski passes her proposal defense</i></div>
+  </div>
+  <p>Today, Gina Badlowski gave her presentation for her proposal, titled <b>Beyond habitat patches: Multi-scale drivers of nekton communities and energy flow across South Florida's coastal ecosystems</b>. Gina passed a big graduate school milestonr, and will continue to work on gathering data and evaluating it for her dissertation. Congratulations, Gina!</p>
+  <div class="image-container">
+    <img src="images/gina_proposal.jpg" width="500"/>
+  </div>
+
+<div class="news-header">
+      <div class="news-date">April 7, 2025</div>
+      <div class="news-title"><i>Marianna Coppola successfully defends her proposal</i></div>
+  </div>
+  <p>Join us in congradulating Marianna Coppola in a successful proposal defense! Marianna's defense, titled <b>From patches to populations: Effects of scale on seagrass spatiotemporal dynamics and their influence on fish species in South Florida</b> was given in front of her peers and committee. Now, Marianna  will spend the rest of her graduate career focused on analyzing data and writing his dissertation. Well done, Marianna, for a great defense and passing this grad school milestone! </p>
+
+
 <div class="news-header">
       <div class="news-date">December 9 - 13, 2024</div>
       <div class="news-title"><i>The Coral Team presents at the 2024 Reef Futures Conference</i></div>
@@ -29,7 +62,7 @@ format:
       <div class="news-date">December 11, 2024</div>
       <div class="news-title"><i>Gina Badlowski is a recipient of the 2024-2025 Cristina Menendez Fellowship Award</i></div>
   </div>
-  <p style="margin-bottom: 100px;">Gina Badlowski is on fire this semester with funding, recieving another $5000 from the <a href="https://environment.fiu.edu/get-involved/cristina-menendez-fellowship/"> Cristina Menendez Memorial Fellow Fellowship</a> to support her dissertation work! This fellowship is awarded to FIU graduate students conducting research in the everglades. Gina's proposal for this award was <b>"Exploring Pink Shrimp Contributions to Trophic Networks in the Greater Everglades."</b> Congratulations again Gina, for this well deserved award!
+  <p style="margin-bottom: 100px;">Gina Badlowski is on fire this semester with funding, recieving another $5000 from the <a href="https://environment.fiu.edu/get-involved/cristina-menendez-fellowship/"> Cristina Menendez Memorial Fellow Fellowship</a> to support her dissertation work! This fellowship is awarded to FIU graduate students conducting research in the everglades. Gina's proposal for this award was <b>"Exploring Pink Shrimp Contributions to Trophic Networks in the Greater Everglades."</b> Congratulations again Gina, for this well deserved award!</p>
 
 
 <div class="news-header">
@@ -105,9 +138,9 @@ format:
 
 <div class="news-header">
       <div class="news-date">April 4, 2024</div>
-      <div class="news-title"><i>Nico Rivas moves on to PhD Candicacy, successfully defends proposal</i></div>
+      <div class="news-title"><i>Nico Rivas successfully defends proposal</i></div>
   </div>
-  <p>A congratulations are in order for Nico Rivas, who successfully defended his project proposal, titled <b>"Assessing the Dynamic State of Caribbean Coral Reefs: The Influence of Seascape Properties, Macroalgae and Herbivory on Coral Population Growth and Community Assembly."</b> Now, Nico is a PhD candidate and will spend the rest of his graduate career focused on analyzing data and writing his dissertation. Well done, Nico, for a great defense and passing this grad school milestone! <img src="images/Nico_Proposal_Defense.jpg" alt="Nico Rivas with prop Barracuda during proposal defense" id="news" height="500"/></p>
+  <p>A congratulations are in order for Nico Rivas, who successfully defended his project proposal, titled <b>"Assessing the Dynamic State of Caribbean Coral Reefs: The Influence of Seascape Properties, Macroalgae and Herbivory on Coral Population Growth and Community Assembly."</b> Now, Nico will spend the rest of his graduate career focused on analyzing data and writing his dissertation. Well done, Nico, for a great defense and passing this grad school milestone! <img src="images/Nico_Proposal_Defense.jpg" alt="Nico Rivas with prop Barracuda during proposal defense" id="news" height="500"/></p>
   
   
   <div class="news-header">

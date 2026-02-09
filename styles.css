@@ -740,7 +740,6 @@ float: left;
 .image-container img {
     max-width: 35%;              /* Adjust the width of each image */
     height: auto;                /* Maintain the aspect ratio of the images */
-    margin-bottom: 100px;
 }
 
 #news {
@@ -757,6 +756,7 @@ float: left;
     margin-bottom: 15px; /* Space between articles */
     border: 1px solid #dce7f3; /* Subtle border for definition */
     font-family: Arial, sans-serif;
+    margin-top: 100px;
 }
 
 .news-date {
