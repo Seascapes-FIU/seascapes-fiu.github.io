@@ -15,7 +15,6 @@ body-classes: research-landing
 <h1>Completed Research Projects:</h1>
   
 <div class="trip-container">
-  <!-- Trip 3 -->
   <div class="trip-card">
     <div class="overlay"></div>
     <a href="Culebra.qmd">
@@ -25,9 +24,15 @@ body-classes: research-landing
   </div>
 
 
-  <!-- Add more trip cards here -->
-</div>
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="biscayne_bay.qmd">
+      <img src="images/BB_card.jpg" alt="Biscayne Bay cover page">
+      <h2>Biscayne Bay Seagrass Stability</h2>
+    </a>
+  </div>
 
+</div>
 </div>
 
 ```

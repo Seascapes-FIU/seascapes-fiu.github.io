@@ -22,6 +22,7 @@ format:
       </div>
   </div>
 
+
 <div class="member-container">
       <div class="main-column">
           <div class="member-info">
@@ -37,8 +38,8 @@ format:
       </div>
   </div>
 
+
   <div class="member-container reversed">
-      <!-- Third member -->
       <div class="main-column">
           <div class="member-info">
               <h2>Nicolas Rivas</h2>
@@ -53,8 +54,8 @@ format:
       </div>
   </div>
 
+
   <div class="member-container">
-      <!-- fifth member -->
       <div class="main-column">
           <div class="member-info">
               <h2>Gina Badlowski</h2>
@@ -69,8 +70,8 @@ format:
       </div>
   </div>
 
+
   <div class="member-container reversed">
-      <!-- Sixth member -->
       <div class="main-column">
           <div class="member-info">
               <h2>Marianna Coppola</h2>
@@ -84,8 +85,8 @@ format:
       </div>
   </div>
 
+
   <div class="member-container">
-      <!-- Seventh member member -->
       <div class="main-column">
           <div class="member-info">
               <h2>Hannah-Marie Lamle</h2>
@@ -99,9 +100,24 @@ format:
           <img src="images/HM.jpg" alt="Hannah-Marie Lamle" class="member-image">
       </div>
   </div>
-
+  
+  
   <div class="member-container reversed">
-      <!-- Ninth member member -->
+      <div class="main-column">
+          <div class="member-info">
+              <h2>McKenzie Zapata</h2>
+              <h4><em>Ph.D. Student</em></h4>
+              <p>McKenzie is a PhD Student in the Seascape Ecology Lab as well as the Coastal Fisheries Research Lab, with research interests in seascape alteration resulting from anthropogenic impacts and climate change. She began her doctoral degree in Fall 2024 after being awarded a McKnight Doctoral Fellowship. McKenzie earned a master’s degree in Marine Conservation from the University of Miami and a bachelor’s degree in Biology with a concentration in Marine Biology and a minor in Environmental Science from Texas A&M University - Corpus Christi. Her research at FIU focuses on assessing the impacts of trawling on species and habitats within Biscayne Bay, Florida. In addition to her research, McKenzie is passionate about mentoring the next generation of scientists and prioritizes creating an inclusive environment in all her collaborations. She is a long-standing and proud member of <a href="https://www.misselasmo.org/">Minorities in Shark Sciences,</a> and Black Women in Marine Ecology, Evolution, and Marine Science. Beyond her doctoral studies, McKenzie intends to continue pursuing research, teaching, and mentoring, all of which she finds to be deeply fulfilling. </p>
+              <p>email: <a href="mailto:hzapa002@fiu.edu">hzapa002@fiu.edu</a></p>
+          </div>
+      </div>
+      <div class="side-column">
+          <img src="images/mckenzie.jpg" alt="McKenzie Zapata" class="member-image">
+      </div>
+  </div>
+  
+
+  <div class="member-container">
       <div class="main-column">
           <div class="member-info">
             <h2>Valentina Bautista</h2>
@@ -115,23 +131,24 @@ format:
       </div>
   </div>
 
-  <div class="member-container">
+
+  <div class="member-container reversed">
       <!-- Tenth member -->
       <div class="main-column">
           <div class="member-info">
-              <h2>Christine Nation</h2>
-              <h4><em>Lab Manager and Laboratory Operations Lead</em></h4>
-              <p>Christine is a biologist from Venezuela, with an M.P.S. in Fisheries Management and Conservation, currently serving as the Santos Lab technician. Before moving to Miami to pursue her M.P.S. at the University of Miami, she lived in Colombia. During her studies, she completed her M.P.S. internship report with the Santos Lab and continued working there after graduating. Christine is dedicated to supporting the team and assisting students with their research projects. She has been involved in conservation efforts in Culebra, Puerto Rico, where she analyzes BRUVs data to study reef fish abundance and participates in fieldwork for BRUV setup and deployment. She is currently using BRUVs data to study the abundance of target snapper and grouper species across different habitat complexities. Christine also assists with calibrating coral reef photomosaics using Viscore and outlining the reef’s macroalgal cover. In the lab, she helps process stable isotopes from various samples, including seagrass, algae, invertebrates, and fish, for food web ecology. </p>
-              <p>email: <a href="mailto:cnationg@fiu.edu">cnationg@fiu.edu</a></p>
+              <h2>Melanie Hernandez</h2>
+              <h4><em>Laboratory Operations Lead</em></h4>
+              <p>Originally from Venezuela and born and raised in Miami, Melanie earned her B.S. in Marine Biology from Florida International University. She began as a volunteer over a year ago with PhD candidate Gina Badlowski on the Biscayne Bay Seagrass Stability project and was later hired as a full-time lab technician working with PhD candidate Alia Jones on the BTT project. After contributing to multiple projects within the lab, she has since transitioned into her current role as Lab Operations Manager for the Santos Seascape Ecology wet lab. Melanie has also been involved in outreach and conservation efforts in Key Biscayne, and in her free time she enjoys paddleboarding and taking wildlife and scenic photos. Melanie is looking forward to continuing to grow within our lab and expanding her experience working both in the field and in the lab. </p>
+              <p>email: <a href="mailto:mceherna@fiu.edu">mceherna@fiu.edu</a></p>
           </div>
       </div>
       <div class="side-column">
-          <img src="images/christine.jpg" alt="Christine Nation" class="member-image">
+          <img src="images/melanie.jpg" alt="Melanie Hernandez" class="member-image">
       </div>
   </div>
   
-    <div class="member-container reversed">
-      <!-- Eleventh member member -->
+  
+    <div class="member-container">
       <div class="main-column">
           <div class="member-info">
             <h2>Haley Blische</h2>
@@ -146,6 +163,34 @@ format:
   </div>
   
   
+  <div class="member-container reversed">
+      <div class="main-column">
+          <div class="member-info">
+            <h2>Phillip Wright</h2>
+              <h4><em>Research Technician</em></h4>
+              <p>Phillip Wright was born and raised in South Florida, where he grew up fishing its waters and developed a passion for marine species and ecology. He earned his B.S. in Marine Biology from Florida International University in May of 2026. He recently completed an independent study examining the relationship between epiphytic biomass, seagrass cover, and density within Biscayne Bay under the mentorship of Gina Badlowski. He began volunteering in the laboratory in 2024, assisting with stable isotope processing, and was subsequently employed as an undergraduate lab technician, contributing to multiple projects in both the laboratory and the field. Currently, he is also involved in sea turtle nesting habitat management in Biscayne Bay National Park’s Elliott Key and is assisting research technician Haley Blische with deploying and collecting acoustic telemetry devices in Florida Bay. After graduating, Phillip will transistion to joining the lab full time as a research technician, lending his expertise to many projects in the lab.</p>
+              <p>email: <a href="mailto:phwright@fiu.edu">phwright@fiu.edu</a></p>
+          </div>
+      </div>
+      <div class="side-column">
+            <img src="images/phil.jpg" alt="Phillip Wright" class="member-image">
+      </div>
+  </div>
+  
+  
+  <div class="member-container">
+      <div class="main-column">
+          <div class="member-info">
+            <h2>Sofia Garcia</h2>
+              <h4><em>Undergraduate Research Technician</em></h4>
+              <p>Sofia is a third-year undergraduate Marine Biology BS student obtaining a GIS certificate, where she integrates spatial analysis with marine ecological research. She works alongside Ph.D. candidate Marianna Coppola in analyzing the temporal spread of seagrass communities in Biscayne Bay, using mapping technologies and ecological data to further our understanding of coastal resilience, habitat dynamics, and invasive species. Growing up in coastal south Florida, Sofia would spend entire days catching lizards and bugs, or visiting beaches and the Everglades with her family. Through this, she developed an early appreciation and personal connection to the area’s ecosystems, fostering a curiosity about how anthropogenic stressors can influence them. Through opportunities like volunteering at Zoo Miami, working as a naturalist for Miami-Dade County, and now working at the Santos Seascape Ecology Lab, she is able to make that fascination tangible. She is extremely passionate about environmental science and wishes to explore the intersections of ecology, spatial analysis, and policy in graduate school to pursue environmental planning. She also loves to go birdwatching, draw, and play the guitar. </p>
+              <p>email: <a href="mailto:sofigarc@fiu.edu">sofigarc@fiu.edu</a></p>
+          </div>
+      </div>
+      <div class="side-column">
+            <img src="images/sofia.jpg" alt="Sofia Garcia" class="member-image">
+      </div>
+  </div>
   
 </div>
 ```

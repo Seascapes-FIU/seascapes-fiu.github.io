@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Coastal Fisheries Lab – Santos Seascape Ecology Lab</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -37,10 +40,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-0815c480559380816a4d1ea211a47e91.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cbbd3169bfcb67eb100cdec29fbe0e62.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4a0c837c3c0e71197d7843ac98905f5c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -82,7 +85,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo images/Santos_Round_Logo_NoBackground.png" alt="" class="navbar-logo">
+    <img src="./logo images/Santos_Round_Logo_NoBackground.png" alt="" class="navbar-logo light-content">
+    <img src="./logo images/Santos_Round_Logo_NoBackground.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Santos Seascape Ecology Lab</span>
@@ -189,20 +193,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="fisheries-header">
-</div>
 
-<div class="centered-content">
-  <h2 class="anchored">Coastal Fish Ecology and Fisheries Lab</h2>
-  <p>Other Projects in our lab pair closely with <a href="./jenn_rehage.html">Dr. Jennifer Rehage</a>'s Lab, located within the FIU institute of Environment Earth and Environment department. Since our work with seascape ecology aligns closely with movement ecology, we collaborate heavily together and have deemed each other "sister labs."</p>
-  <p>The Rehage Lab consists of coastal ecologists, passionate about fish and fisheries and the issues that affect them, particularly water and climate issues and their interacting effects. We focus on understanding how water and water management decisions interact with climate patterns to affect fish and the quality of recreational fisheries. Our research takes a holistic approach to studying fish, integrating from the behavior of individuals to populations and entire fish communities and their effects and responses to ecosystem processes, their interactions and responses to both natural and human disturbances, and extending to the human dimensions of fish- involving anglers in science and understanding their knowledge and perceptions. Ongoing research efforts aim to understand how fishes move through their seascapes, what drives these movement, how those movements fit into large-scale ecosystem processes and what are the consequences for socio-economically valuable recreational fisheries. Our research mainly takes places in the Everglades and coastal South Florida, and we focus on key recreational species such as: Tarpon, Snook, Bonefish, Florida Bass, Jack Crevalle, and Redfish. <b>If this research is of interest, you can click on the lab logo below to be directed to Dr. Rehage's Lab page!</b></p>
 </div>
-
+<section id="coastal-fish-ecology-and-fisheries-lab" class="level2 centered-content">
+<h2 class="anchored" data-anchor-id="coastal-fish-ecology-and-fisheries-lab">Coastal Fish Ecology and Fisheries Lab</h2>
+<p>Other Projects in our lab pair closely with <a href="./jenn_rehage.html">Dr.&nbsp;Jennifer Rehage</a>’s Lab, located within the FIU institute of Environment Earth and Environment department. Since our work with seascape ecology aligns closely with movement ecology, we collaborate heavily together and have deemed each other “sister labs.</p>
+<p>The Rehage Lab consists of coastal ecologists, passionate about fish and fisheries and the issues that affect them, particularly water and climate issues and their interacting effects. We focus on understanding how water and water management decisions interact with climate patterns to affect fish and the quality of recreational fisheries. Our research takes a holistic approach to studying fish, integrating from the behavior of individuals to populations and entire fish communities and their effects and responses to ecosystem processes, their interactions and responses to both natural and human disturbances, and extending to the human dimensions of fish- involving anglers in science and understanding their knowledge and perceptions. Ongoing research efforts aim to understand how fishes move through their seascapes, what drives these movement, how those movements fit into large-scale ecosystem processes and what are the consequences for socio-economically valuable recreational fisheries. Our research mainly takes places in the Everglades and coastal South Florida, and we focus on key recreational species such as: Tarpon, Snook, Bonefish, Florida Bass, Jack Crevalle, and Redfish. <strong>If this research is of interest, you can click on the lab logo below to be directed to Dr.&nbsp;Rehage’s Lab page!</strong></p>
+</section>
 <div class="centered-logo">
-  <a href="https://myweb.fiu.edu/rehagej/" target="_blank">
-    <img src="images/rehage_logo.png" alt="Rehage Lab Logo" height="400">
-  </a>
+<p><a href="https://myweb.fiu.edu/rehagej/"><img src="images/rehage_logo.png" class="img-fluid"></a></p>
 </div>
-
 
 
 
@@ -258,13 +258,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -610,7 +611,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2024 Santos Seascape Ecology Lab</p>
+<p>© 2026 Santos Seascape Ecology Lab</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

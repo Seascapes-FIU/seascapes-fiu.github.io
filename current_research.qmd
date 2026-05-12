@@ -15,13 +15,6 @@ body-classes: research-landing
 <h1> Ongoing Research Projects:</h1>
 
 <div class="trip-container">
-  <div class="trip-card">
-    <div class="overlay"></div>
-    <a href="biscayne_bay.qmd">
-      <img src="images/BB_card.jpg" alt="Biscayne Bay cover page">
-      <h2>Biscayne Bay Seagrass Stability</h2>
-    </a>
-  </div>
 
   
   <div class="trip-card">
@@ -58,7 +51,13 @@ body-classes: research-landing
     </a>
   </div>
 
-  <!-- Add more trip cards here -->
+  <div class="trip-card">
+    <div class="overlay"></div>
+    <a href="BNP_trawl.qmd">
+      <img src="images/bnp_trawl_card.jpg" alt="BNP Trawl card">
+      <h2>Impacting of Trawling in BNP</h2>
+    </a>
+  </div>
 </div>
 
 </div>
