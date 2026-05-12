@@ -6,15 +6,14 @@ page-layout: full
 body-classes: research-landing
 ---
 
+# Completed Research Projects:
 
 ```{=html}
 
 
-<div class="research-landing">
-
-<h1>Completed Research Projects:</h1>
   
 <div class="trip-container">
+
   <div class="trip-card">
     <div class="overlay"></div>
     <a href="Culebra.qmd">
@@ -32,7 +31,6 @@ body-classes: research-landing
     </a>
   </div>
 
-</div>
 </div>
 
 ```

@@ -1,5 +1,25 @@
 /* css styles */
 
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#quarto-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+main.content {
+  flex: 1;
+}
+
+
 /*--------------------------------------------------------------------------*/
 /* formatting for navbar */
 
@@ -134,13 +154,19 @@ body.research-landing {
   background-color:	#b6dcdd;
 }
 
-.research-landing {
-  padding: 20px;
+body.research-landing #quarto-content {
+  padding-top: 80px;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+body.research-landing #quarto-content main {
+  flex: 1 0 auto;
 }
 
 .research-landing h1 {
-  font-size: 2rem;
+  font-size: 1.5em;
   text-align: center;
   margin-bottom: 30px;
   color: gray;

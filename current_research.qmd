@@ -9,10 +9,7 @@ body-classes: research-landing
 
 ```{=html}
 
-
-<div class="research-landing">
-
-<h1> Ongoing Research Projects:</h1>
+<h1>Ongoing Research Projects:<h1>
 
 <div class="trip-container">
 
@@ -58,7 +55,6 @@ body-classes: research-landing
       <h2>Impacting of Trawling in BNP</h2>
     </a>
   </div>
-</div>
 
 </div>
 
