@@ -1,24 +1,5 @@
 /* css styles */
 
-html, body {
-  height: 100%;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-}
-
-#quarto-content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-}
-
-main.content {
-  flex: 1;
-}
-
 
 /*--------------------------------------------------------------------------*/
 /* formatting for navbar */
@@ -148,7 +129,7 @@ main.content {
 
 
 /*--------------------------------------------------------------------------*/
-/* Research landing pages (boxes for research projects) */ 
+/* Current Research page */ 
 
 body.research-landing {
   background-color:	#b6dcdd;
@@ -178,6 +159,16 @@ body.research-landing #quarto-content main {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
   margin: 10px auto;
+  max-width: 1200px;
+  padding: 10px;
+}
+
+/* Grid container for trip cards FOR COMPLETED RESEARCH */
+.trip-container-complete {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin: 10px auto 328px auto;
   max-width: 1200px;
   padding: 10px;
 }
